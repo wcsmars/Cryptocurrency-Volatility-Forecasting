@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "source_directory": "data/raw",
+  "source_files_verified": 99,
+  "code_files_verified": 5,
+  "source_windows_independently_recalculated": 430,
+  "max_absolute_target_difference": 1.5667068337110734e-13,
+  "metric_rows_independently_recalculated": 588,
+  "macro_rows_independently_recalculated": 6,
+  "latest_persistence_forecasts_recalculated": 25,
+  "all_forecast_dates_and_training_cutoffs_validated": true,
+  "scored_prediction_rows": 45684,
+  "forecast_origin_observations_per_model": 15228
+}

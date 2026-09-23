@@ -1,0 +1,6 @@
+# Exact versions used for the saved real-data analysis; Python 3.9-3.12.
+numpy==2.0.2
+pandas==2.2.3
+scipy==1.13.0
+scikit-learn==1.5.2
+matplotlib==3.9.3

@@ -1,0 +1,26 @@
+name: Numerical regression checks
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+jobs:
+  tests:
+    # Pinned: newer runner images no longer provide Python 3.9.
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    strategy:
+      matrix:
+        python-version: ['3.9', '3.12']
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+      - run: python -m pip install -r requirements.txt pyflakes==3.4.0
+      - run: python -m pyflakes crypto_volatility scripts tests
+      # The suite includes an end-to-end synthetic run, a run on the committed
+      # data/sample, and a check that results/reference was produced by the
+      # committed code; no download needed.
+      - run: python -m unittest discover -s tests -t . -v
+      - run: python -m crypto_volatility --help

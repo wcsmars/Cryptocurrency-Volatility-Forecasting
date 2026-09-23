@@ -1,0 +1,3130 @@
+asset,date,issue
+1inch,2022-08-22,missing_calendar_day
+Aave,2020-10-02,invalid_open
+Aave,2020-10-02,invalid_low
+Aave,2022-08-22,missing_calendar_day
+Algorand,2022-08-22,missing_calendar_day
+ApeCoin,2021-03-23,missing_calendar_day
+ApeCoin,2021-03-24,missing_calendar_day
+ApeCoin,2021-03-25,missing_calendar_day
+ApeCoin,2021-03-26,missing_calendar_day
+ApeCoin,2021-03-27,missing_calendar_day
+ApeCoin,2021-03-28,missing_calendar_day
+ApeCoin,2021-03-29,missing_calendar_day
+ApeCoin,2021-03-30,missing_calendar_day
+ApeCoin,2021-03-31,missing_calendar_day
+ApeCoin,2021-04-01,missing_calendar_day
+ApeCoin,2021-04-02,missing_calendar_day
+ApeCoin,2021-04-03,missing_calendar_day
+ApeCoin,2021-04-04,missing_calendar_day
+ApeCoin,2021-04-05,missing_calendar_day
+ApeCoin,2022-08-22,missing_calendar_day
+Arweave,2022-08-22,missing_calendar_day
+Axie Infinity,2022-08-22,missing_calendar_day
+Basic Attention Token,2022-08-22,missing_calendar_day
+Binance USD,2022-08-22,missing_calendar_day
+Bitcoin BEP2,2021-12-21,missing_calendar_day
+Bitcoin BEP2,2021-12-22,missing_calendar_day
+Bitcoin BEP2,2021-12-23,missing_calendar_day
+Bitcoin BEP2,2021-12-24,missing_calendar_day
+Bitcoin BEP2,2021-12-25,missing_calendar_day
+Bitcoin BEP2,2021-12-26,missing_calendar_day
+Bitcoin BEP2,2021-12-27,missing_calendar_day
+Bitcoin BEP2,2021-12-28,missing_calendar_day
+Bitcoin BEP2,2021-12-29,missing_calendar_day
+Bitcoin BEP2,2021-12-30,missing_calendar_day
+Bitcoin BEP2,2021-12-31,missing_calendar_day
+Bitcoin BEP2,2022-08-22,missing_calendar_day
+Bitcoin Gold,2022-08-22,missing_calendar_day
+Bitcoin SV,2022-08-22,missing_calendar_day
+bitcoin,2010-07-18,invalid_open
+bitcoin,2010-08-30,invalid_low
+bitcoin,2010-10-08,invalid_low
+bitcoin,2010-12-17,inconsistent_ohlc
+bitcoin,2013-04-08,inconsistent_ohlc
+bitcoin,2013-10-27,inconsistent_ohlc
+bitcoin,2013-11-03,inconsistent_ohlc
+bitcoin,2013-11-06,inconsistent_ohlc
+bitcoin,2014-02-26,inconsistent_ohlc
+bitcoin,2014-03-01,inconsistent_ohlc
+bitcoin,2014-03-03,inconsistent_ohlc
+bitcoin,2014-08-09,inconsistent_ohlc
+bitcoin,2014-08-27,inconsistent_ohlc
+bitcoin,2014-11-12,inconsistent_ohlc
+bitcoin,2014-11-23,inconsistent_ohlc
+bitcoin,2014-12-13,inconsistent_ohlc
+bitcoin,2015-01-13,inconsistent_ohlc
+bitcoin,2015-09-06,inconsistent_ohlc
+bitcoin,2015-10-24,inconsistent_ohlc
+bitcoin,2015-10-26,inconsistent_ohlc
+bitcoin,2015-11-12,inconsistent_ohlc
+bitcoin,2015-11-19,inconsistent_ohlc
+bitcoin,2016-01-13,inconsistent_ohlc
+bitcoin,2016-02-06,inconsistent_ohlc
+bitcoin,2016-05-11,inconsistent_ohlc
+bitcoin,2016-06-12,inconsistent_ohlc
+bitcoin,2016-06-21,inconsistent_ohlc
+bitcoin,2016-08-03,inconsistent_ohlc
+bitcoin,2016-09-21,inconsistent_ohlc
+bitcoin,2016-10-26,inconsistent_ohlc
+bitcoin,2016-10-30,inconsistent_ohlc
+bitcoin,2017-02-12,inconsistent_ohlc
+bitcoin,2017-04-06,inconsistent_ohlc
+BitTorrent (New),2022-08-22,missing_calendar_day
+BNB,2022-08-22,missing_calendar_day
+Celo,2022-08-22,missing_calendar_day
+Celsius,2018-05-04,missing_calendar_day
+Celsius,2018-05-05,missing_calendar_day
+Celsius,2018-05-06,missing_calendar_day
+Celsius,2018-05-07,missing_calendar_day
+Celsius,2018-05-08,missing_calendar_day
+Celsius,2018-05-09,missing_calendar_day
+Celsius,2018-05-10,missing_calendar_day
+Celsius,2018-05-11,missing_calendar_day
+Celsius,2018-05-12,missing_calendar_day
+Celsius,2018-05-13,missing_calendar_day
+Celsius,2018-05-14,missing_calendar_day
+Celsius,2018-05-15,missing_calendar_day
+Celsius,2018-05-16,missing_calendar_day
+Celsius,2018-05-17,missing_calendar_day
+Celsius,2018-05-18,missing_calendar_day
+Celsius,2018-05-19,missing_calendar_day
+Celsius,2018-05-20,missing_calendar_day
+Celsius,2018-05-21,missing_calendar_day
+Celsius,2018-05-22,missing_calendar_day
+Celsius,2018-05-23,missing_calendar_day
+Celsius,2018-05-24,missing_calendar_day
+Celsius,2018-05-25,missing_calendar_day
+Celsius,2018-05-26,missing_calendar_day
+Celsius,2018-05-27,missing_calendar_day
+Celsius,2018-05-28,missing_calendar_day
+Celsius,2018-05-29,missing_calendar_day
+Celsius,2018-05-30,missing_calendar_day
+Celsius,2018-05-31,missing_calendar_day
+Celsius,2018-06-01,missing_calendar_day
+Celsius,2018-06-02,missing_calendar_day
+Celsius,2018-06-03,missing_calendar_day
+Celsius,2018-06-04,missing_calendar_day
+Celsius,2018-06-05,missing_calendar_day
+Celsius,2018-06-06,missing_calendar_day
+Celsius,2018-06-07,missing_calendar_day
+Celsius,2018-06-08,missing_calendar_day
+Celsius,2018-06-09,missing_calendar_day
+Celsius,2018-06-10,missing_calendar_day
+Celsius,2018-06-11,missing_calendar_day
+Celsius,2018-06-12,missing_calendar_day
+Celsius,2018-06-13,missing_calendar_day
+Celsius,2018-06-14,missing_calendar_day
+Celsius,2018-06-15,missing_calendar_day
+Celsius,2018-06-16,missing_calendar_day
+Celsius,2018-06-17,missing_calendar_day
+Celsius,2018-06-18,missing_calendar_day
+Celsius,2018-06-19,missing_calendar_day
+Celsius,2018-06-20,missing_calendar_day
+Celsius,2018-06-21,missing_calendar_day
+Celsius,2018-06-22,missing_calendar_day
+Celsius,2018-06-23,missing_calendar_day
+Celsius,2018-06-24,missing_calendar_day
+Celsius,2018-06-25,missing_calendar_day
+Celsius,2018-06-26,missing_calendar_day
+Celsius,2018-06-27,missing_calendar_day
+Celsius,2018-06-28,missing_calendar_day
+Celsius,2018-06-29,missing_calendar_day
+Celsius,2018-06-30,missing_calendar_day
+Celsius,2018-07-01,missing_calendar_day
+Celsius,2018-07-02,missing_calendar_day
+Celsius,2018-07-03,missing_calendar_day
+Celsius,2018-07-04,missing_calendar_day
+Celsius,2018-07-05,missing_calendar_day
+Celsius,2018-07-06,missing_calendar_day
+Celsius,2018-07-07,missing_calendar_day
+Celsius,2018-07-08,missing_calendar_day
+Celsius,2018-07-09,missing_calendar_day
+Celsius,2018-07-10,missing_calendar_day
+Celsius,2018-07-11,missing_calendar_day
+Celsius,2018-07-12,missing_calendar_day
+Celsius,2018-07-13,missing_calendar_day
+Celsius,2018-07-14,missing_calendar_day
+Celsius,2018-07-15,missing_calendar_day
+Celsius,2018-07-16,missing_calendar_day
+Celsius,2018-07-17,missing_calendar_day
+Celsius,2018-07-18,missing_calendar_day
+Celsius,2018-07-19,missing_calendar_day
+Celsius,2018-07-20,missing_calendar_day
+Celsius,2018-07-21,missing_calendar_day
+Celsius,2018-07-22,missing_calendar_day
+Celsius,2018-07-23,missing_calendar_day
+Celsius,2018-07-24,missing_calendar_day
+Celsius,2018-07-25,missing_calendar_day
+Celsius,2018-07-26,missing_calendar_day
+Celsius,2018-07-27,missing_calendar_day
+Celsius,2018-07-28,missing_calendar_day
+Celsius,2018-07-29,missing_calendar_day
+Celsius,2018-07-30,missing_calendar_day
+Celsius,2018-07-31,missing_calendar_day
+Celsius,2018-08-01,missing_calendar_day
+Celsius,2018-08-02,missing_calendar_day
+Celsius,2018-08-03,missing_calendar_day
+Celsius,2018-08-04,missing_calendar_day
+Celsius,2018-08-05,missing_calendar_day
+Celsius,2018-08-06,missing_calendar_day
+Celsius,2018-08-07,missing_calendar_day
+Celsius,2018-08-08,missing_calendar_day
+Celsius,2018-08-09,missing_calendar_day
+Celsius,2018-08-10,missing_calendar_day
+Celsius,2018-08-11,missing_calendar_day
+Celsius,2018-08-12,missing_calendar_day
+Celsius,2018-08-13,missing_calendar_day
+Celsius,2018-08-14,missing_calendar_day
+Celsius,2018-08-15,missing_calendar_day
+Celsius,2018-08-16,missing_calendar_day
+Celsius,2018-08-17,missing_calendar_day
+Celsius,2018-08-18,missing_calendar_day
+Celsius,2018-08-19,missing_calendar_day
+Celsius,2018-08-20,missing_calendar_day
+Celsius,2018-08-21,missing_calendar_day
+Celsius,2018-08-22,missing_calendar_day
+Celsius,2018-08-23,missing_calendar_day
+Celsius,2018-08-24,missing_calendar_day
+Celsius,2018-08-25,missing_calendar_day
+Celsius,2018-08-26,missing_calendar_day
+Celsius,2018-08-27,missing_calendar_day
+Celsius,2018-08-28,missing_calendar_day
+Celsius,2018-08-29,missing_calendar_day
+Celsius,2018-08-30,missing_calendar_day
+Celsius,2018-08-31,missing_calendar_day
+Celsius,2018-09-01,missing_calendar_day
+Celsius,2018-09-02,missing_calendar_day
+Celsius,2018-09-03,missing_calendar_day
+Celsius,2018-09-04,missing_calendar_day
+Celsius,2018-09-05,missing_calendar_day
+Celsius,2018-09-06,missing_calendar_day
+Celsius,2018-09-07,missing_calendar_day
+Celsius,2018-09-08,missing_calendar_day
+Celsius,2018-09-09,missing_calendar_day
+Celsius,2018-09-10,missing_calendar_day
+Celsius,2018-09-11,missing_calendar_day
+Celsius,2018-09-12,missing_calendar_day
+Celsius,2018-09-13,missing_calendar_day
+Celsius,2018-09-14,missing_calendar_day
+Celsius,2018-09-15,missing_calendar_day
+Celsius,2018-09-16,missing_calendar_day
+Celsius,2018-09-17,missing_calendar_day
+Celsius,2018-09-18,missing_calendar_day
+Celsius,2018-09-19,missing_calendar_day
+Celsius,2018-09-20,missing_calendar_day
+Celsius,2018-09-21,missing_calendar_day
+Celsius,2018-09-22,missing_calendar_day
+Celsius,2018-09-23,missing_calendar_day
+Celsius,2018-09-24,missing_calendar_day
+Celsius,2018-09-25,missing_calendar_day
+Celsius,2018-09-26,missing_calendar_day
+Celsius,2018-09-27,missing_calendar_day
+Celsius,2018-09-28,missing_calendar_day
+Celsius,2018-09-29,missing_calendar_day
+Celsius,2018-09-30,missing_calendar_day
+Celsius,2018-10-01,missing_calendar_day
+Celsius,2022-08-22,missing_calendar_day
+Chiliz,2021-12-28,missing_calendar_day
+Chiliz,2021-12-29,missing_calendar_day
+Chiliz,2021-12-30,missing_calendar_day
+Chiliz,2021-12-31,missing_calendar_day
+Chiliz,2022-08-22,missing_calendar_day
+Compound,2019-05-28,invalid_open
+Compound,2019-06-01,invalid_open
+Compound,2019-06-02,invalid_open
+Compound,2019-06-03,invalid_open
+Compound,2019-06-04,invalid_open
+Compound,2019-06-05,invalid_open
+Compound,2019-06-06,invalid_open
+Compound,2019-06-07,invalid_open
+Compound,2019-06-09,invalid_open
+Compound,2019-06-10,invalid_open
+Compound,2019-06-11,invalid_open
+Compound,2019-06-12,invalid_open
+Compound,2019-06-13,invalid_open
+Compound,2020-09-23,invalid_open
+Compound,2020-09-24,invalid_open
+Compound,2020-09-25,invalid_open
+Compound,2020-09-26,invalid_open
+Compound,2020-09-28,invalid_open
+Compound,2020-09-29,invalid_open
+Compound,2020-09-30,invalid_open
+Compound,2020-10-03,invalid_open
+Compound,2020-10-04,invalid_open
+Compound,2020-10-08,invalid_open
+Compound,2020-10-09,invalid_open
+Compound,2020-10-10,invalid_open
+Compound,2020-10-13,invalid_open
+Compound,2020-10-14,invalid_open
+Compound,2020-10-15,invalid_open
+Compound,2020-10-16,invalid_open
+Compound,2020-10-17,invalid_open
+Compound,2020-10-18,invalid_open
+Compound,2020-10-19,invalid_open
+Compound,2020-10-20,invalid_open
+Compound,2020-10-21,invalid_open
+Compound,2020-10-22,invalid_open
+Compound,2020-10-23,invalid_open
+Compound,2020-10-24,invalid_open
+Compound,2020-10-25,invalid_open
+Compound,2020-10-26,invalid_open
+Compound,2020-10-27,invalid_open
+Compound,2020-10-28,invalid_open
+Compound,2020-10-29,invalid_open
+Compound,2020-10-30,invalid_open
+Compound,2020-10-31,invalid_open
+Compound,2020-11-01,invalid_open
+Compound,2020-11-02,invalid_open
+Compound,2020-11-03,invalid_open
+Compound,2020-11-04,invalid_open
+Compound,2020-11-05,invalid_open
+Compound,2020-11-06,invalid_open
+Compound,2020-11-08,invalid_open
+Compound,2020-11-10,invalid_open
+Compound,2020-11-11,invalid_open
+Compound,2020-11-12,invalid_open
+Compound,2020-11-13,invalid_open
+Compound,2020-11-14,invalid_open
+Compound,2020-11-15,invalid_open
+Compound,2020-11-17,invalid_open
+Compound,2020-11-18,invalid_open
+Compound,2020-11-19,invalid_open
+Compound,2020-11-20,invalid_open
+Compound,2020-11-21,invalid_open
+Compound,2020-11-22,invalid_open
+Compound,2020-11-23,invalid_open
+Compound,2020-11-24,invalid_open
+Compound,2020-11-25,invalid_open
+Compound,2020-11-28,invalid_open
+Compound,2020-11-29,invalid_open
+Compound,2020-11-30,invalid_open
+Compound,2020-12-01,invalid_open
+Compound,2020-12-02,invalid_open
+Compound,2020-12-03,invalid_open
+Compound,2020-12-04,invalid_open
+Compound,2020-12-05,invalid_open
+Compound,2020-12-06,invalid_open
+Compound,2020-12-07,invalid_open
+Compound,2020-12-09,invalid_open
+Compound,2020-12-10,invalid_open
+Compound,2020-12-14,invalid_open
+Compound,2020-12-20,invalid_open
+Compound,2020-12-21,invalid_open
+Compound,2020-12-22,invalid_open
+Compound,2020-12-24,invalid_open
+Compound,2020-12-25,invalid_open
+Compound,2020-12-27,invalid_open
+Compound,2020-12-28,invalid_open
+Compound,2020-12-29,invalid_open
+Compound,2021-01-01,invalid_open
+Compound,2021-01-02,invalid_open
+Compound,2021-01-03,invalid_open
+Compound,2021-01-04,invalid_open
+Compound,2021-01-05,invalid_open
+Compound,2021-01-06,invalid_open
+Compound,2021-01-07,invalid_open
+Compound,2021-01-08,invalid_open
+Compound,2021-01-09,invalid_open
+Compound,2021-01-10,invalid_open
+Compound,2021-01-11,invalid_open
+Compound,2021-01-12,invalid_open
+Compound,2021-01-13,invalid_open
+Compound,2021-01-14,invalid_open
+Compound,2021-01-15,invalid_open
+Compound,2021-01-16,invalid_open
+Compound,2021-01-17,invalid_open
+Compound,2021-01-18,invalid_open
+Compound,2021-01-19,invalid_open
+Compound,2021-01-20,invalid_open
+Compound,2021-01-21,invalid_open
+Compound,2021-01-22,invalid_open
+Compound,2021-01-23,invalid_open
+Compound,2021-01-24,invalid_open
+Compound,2021-01-25,invalid_open
+Compound,2021-01-26,invalid_open
+Compound,2021-01-27,invalid_open
+Compound,2021-01-28,invalid_open
+Compound,2021-01-29,invalid_open
+Compound,2021-01-30,invalid_open
+Compound,2021-01-31,invalid_open
+Compound,2021-02-01,invalid_open
+Compound,2021-02-04,invalid_open
+Compound,2021-02-18,invalid_open
+Compound,2021-04-18,invalid_open
+Compound,2021-04-19,invalid_open
+Compound,2021-04-22,invalid_open
+Compound,2021-06-07,invalid_open
+Compound,2021-06-08,invalid_open
+Compound,2021-06-09,invalid_open
+Compound,2021-06-11,invalid_open
+Compound,2021-06-12,invalid_open
+Compound,2021-06-13,invalid_open
+Compound,2021-06-15,invalid_open
+Compound,2021-06-16,invalid_open
+Compound,2021-06-17,invalid_open
+Compound,2021-06-18,invalid_open
+Compound,2021-06-19,invalid_open
+Compound,2021-06-20,invalid_open
+Compound,2021-06-21,invalid_open
+Compound,2021-06-22,invalid_open
+Compound,2021-06-23,invalid_open
+Compound,2021-06-24,invalid_open
+Compound,2021-06-25,invalid_open
+Compound,2021-06-26,invalid_open
+Compound,2021-06-27,invalid_open
+Compound,2021-06-28,invalid_open
+Compound,2021-06-29,invalid_open
+Compound,2021-06-30,invalid_open
+Compound,2021-07-01,invalid_open
+Compound,2021-07-02,invalid_open
+Compound,2021-07-03,invalid_open
+Compound,2021-07-04,invalid_open
+Compound,2021-07-05,invalid_open
+Compound,2021-07-06,invalid_open
+Compound,2021-07-07,invalid_open
+Compound,2021-07-08,invalid_open
+Compound,2021-07-09,invalid_open
+Compound,2021-07-10,invalid_open
+Compound,2021-07-11,invalid_open
+Compound,2021-07-12,invalid_open
+Compound,2021-07-13,invalid_open
+Compound,2021-07-14,invalid_open
+Compound,2021-07-15,invalid_open
+Compound,2021-07-16,invalid_open
+Compound,2021-07-17,invalid_open
+Compound,2021-07-18,invalid_open
+Compound,2021-07-19,invalid_open
+Compound,2021-07-20,invalid_open
+Compound,2021-07-21,invalid_open
+Compound,2021-07-22,invalid_open
+Compound,2021-07-23,invalid_open
+Compound,2021-07-24,invalid_open
+Compound,2021-07-25,invalid_open
+Compound,2021-07-26,invalid_open
+Compound,2021-07-27,invalid_open
+Compound,2021-07-28,invalid_open
+Compound,2021-07-29,invalid_open
+Compound,2021-07-30,invalid_open
+Compound,2021-07-31,invalid_open
+Compound,2021-08-01,invalid_open
+Compound,2021-08-02,invalid_open
+Compound,2021-08-03,invalid_open
+Compound,2021-08-04,invalid_open
+Compound,2021-08-05,invalid_open
+Compound,2021-08-06,invalid_open
+Compound,2021-08-07,invalid_open
+Compound,2021-08-08,invalid_open
+Compound,2021-08-09,invalid_open
+Compound,2021-08-10,invalid_open
+Compound,2021-08-11,invalid_open
+Compound,2021-08-12,invalid_open
+Compound,2021-08-13,invalid_open
+Compound,2021-08-14,invalid_open
+Compound,2021-08-15,invalid_open
+Compound,2021-08-17,invalid_open
+Compound,2021-08-18,invalid_open
+Compound,2021-08-19,invalid_open
+Compound,2021-08-20,invalid_open
+Compound,2021-08-21,invalid_open
+Compound,2021-08-22,invalid_open
+Compound,2021-08-23,invalid_open
+Compound,2021-08-24,invalid_open
+Compound,2021-08-25,invalid_open
+Compound,2021-08-26,invalid_open
+Compound,2021-08-27,invalid_open
+Compound,2021-08-28,invalid_open
+Compound,2021-08-29,invalid_open
+Compound,2021-08-30,invalid_open
+Compound,2021-08-31,invalid_open
+Compound,2021-09-01,invalid_open
+Compound,2021-09-02,invalid_open
+Compound,2021-09-03,invalid_open
+Compound,2021-09-04,invalid_open
+Compound,2021-09-05,invalid_open
+Compound,2021-09-06,invalid_open
+Compound,2021-09-07,invalid_open
+Compound,2021-09-08,invalid_open
+Compound,2021-09-09,invalid_open
+Compound,2021-09-10,invalid_open
+Compound,2021-09-11,invalid_open
+Compound,2021-09-12,invalid_open
+Compound,2021-09-13,invalid_open
+Compound,2021-09-14,invalid_open
+Compound,2021-09-15,invalid_open
+Compound,2021-09-16,invalid_open
+Compound,2021-09-17,invalid_open
+Compound,2021-09-18,invalid_open
+Compound,2021-09-19,invalid_open
+Compound,2021-09-20,invalid_open
+Compound,2021-09-21,invalid_open
+Compound,2021-09-22,invalid_open
+Compound,2021-09-23,invalid_open
+Compound,2021-09-24,invalid_open
+Compound,2021-09-25,invalid_open
+Compound,2021-09-26,invalid_open
+Compound,2021-09-27,invalid_open
+Compound,2021-09-28,invalid_open
+Compound,2021-09-29,invalid_open
+Compound,2021-09-30,invalid_open
+Compound,2021-10-01,invalid_open
+Compound,2021-10-02,invalid_open
+Compound,2021-10-03,invalid_open
+Compound,2021-10-04,invalid_open
+Compound,2021-10-05,invalid_open
+Compound,2021-10-06,invalid_open
+Compound,2021-10-07,invalid_open
+Compound,2021-10-08,invalid_open
+Compound,2021-10-09,invalid_open
+Compound,2021-10-10,invalid_open
+Compound,2021-10-11,invalid_open
+Compound,2021-10-12,invalid_open
+Compound,2021-10-13,invalid_open
+Compound,2021-10-14,invalid_open
+Compound,2021-10-15,invalid_open
+Compound,2021-10-16,invalid_open
+Compound,2021-10-17,invalid_open
+Compound,2021-10-18,invalid_open
+Compound,2021-10-19,invalid_open
+Compound,2021-10-20,invalid_open
+Compound,2021-10-21,invalid_open
+Compound,2021-10-22,invalid_open
+Compound,2021-10-23,invalid_open
+Compound,2021-10-24,invalid_open
+Compound,2021-10-25,invalid_open
+Compound,2021-10-26,invalid_open
+Compound,2021-10-27,invalid_open
+Compound,2021-10-28,invalid_open
+Compound,2021-10-29,invalid_open
+Compound,2021-10-30,invalid_open
+Compound,2021-10-31,invalid_open
+Compound,2021-11-01,invalid_open
+Compound,2021-11-02,invalid_open
+Compound,2021-11-03,invalid_open
+Compound,2021-11-04,invalid_open
+Compound,2021-11-05,invalid_open
+Compound,2021-11-06,invalid_open
+Compound,2021-11-07,invalid_open
+Compound,2021-11-08,invalid_open
+Compound,2021-11-09,invalid_open
+Compound,2021-11-10,invalid_open
+Compound,2021-11-11,invalid_open
+Compound,2021-11-12,invalid_open
+Compound,2021-11-13,invalid_open
+Compound,2021-11-14,invalid_open
+Compound,2021-11-15,invalid_open
+Compound,2021-11-16,invalid_open
+Compound,2021-11-17,invalid_open
+Compound,2021-11-18,invalid_open
+Compound,2021-11-19,invalid_open
+Compound,2021-11-20,invalid_open
+Compound,2021-11-21,invalid_open
+Compound,2021-11-22,invalid_open
+Compound,2021-11-23,invalid_open
+Compound,2021-11-24,invalid_open
+Compound,2021-11-25,invalid_open
+Compound,2021-11-26,invalid_open
+Compound,2021-11-27,invalid_open
+Compound,2021-11-28,invalid_open
+Compound,2021-11-29,invalid_open
+Compound,2021-11-30,invalid_open
+Compound,2021-12-01,invalid_open
+Compound,2021-12-02,invalid_open
+Compound,2021-12-03,invalid_open
+Compound,2021-12-04,invalid_open
+Compound,2021-12-05,invalid_open
+Compound,2021-12-06,invalid_open
+Compound,2021-12-07,invalid_open
+Compound,2021-12-08,invalid_open
+Compound,2021-12-09,invalid_open
+Compound,2021-12-10,invalid_open
+Compound,2021-12-11,invalid_open
+Compound,2021-12-12,invalid_open
+Compound,2021-12-13,invalid_open
+Compound,2021-12-14,invalid_open
+Compound,2021-12-15,invalid_open
+Compound,2021-12-16,invalid_open
+Compound,2021-12-17,invalid_open
+Compound,2021-12-18,invalid_open
+Compound,2021-12-19,invalid_open
+Compound,2021-12-20,invalid_open
+Compound,2021-12-21,invalid_open
+Compound,2021-12-22,invalid_open
+Compound,2021-12-23,invalid_open
+Compound,2021-12-24,invalid_open
+Compound,2021-12-25,invalid_open
+Compound,2021-12-26,invalid_open
+Compound,2021-12-27,invalid_open
+Compound,2021-12-28,invalid_open
+Compound,2021-12-29,invalid_open
+Compound,2021-12-30,invalid_open
+Compound,2021-12-31,invalid_open
+Compound,2022-01-01,invalid_open
+Compound,2022-01-02,invalid_open
+Compound,2022-01-03,invalid_open
+Compound,2022-01-04,invalid_open
+Compound,2022-01-05,invalid_open
+Compound,2022-01-06,invalid_open
+Compound,2022-01-07,invalid_open
+Compound,2022-01-08,invalid_open
+Compound,2022-01-09,invalid_open
+Compound,2022-01-10,invalid_open
+Compound,2022-01-11,invalid_open
+Compound,2022-01-12,invalid_open
+Compound,2022-01-13,invalid_open
+Compound,2022-01-14,invalid_open
+Compound,2022-01-15,invalid_open
+Compound,2022-01-16,invalid_open
+Compound,2022-01-17,invalid_open
+Compound,2022-01-18,invalid_open
+Compound,2022-01-19,invalid_open
+Compound,2022-01-20,invalid_open
+Compound,2022-01-21,invalid_open
+Compound,2022-01-22,invalid_open
+Compound,2022-01-23,invalid_open
+Compound,2019-06-01,invalid_high
+Compound,2019-06-02,invalid_high
+Compound,2019-06-03,invalid_high
+Compound,2019-06-04,invalid_high
+Compound,2019-06-05,invalid_high
+Compound,2019-06-06,invalid_high
+Compound,2019-06-10,invalid_high
+Compound,2019-06-11,invalid_high
+Compound,2019-06-12,invalid_high
+Compound,2020-09-23,invalid_high
+Compound,2020-09-25,invalid_high
+Compound,2020-09-29,invalid_high
+Compound,2020-10-03,invalid_high
+Compound,2020-10-08,invalid_high
+Compound,2020-10-09,invalid_high
+Compound,2020-10-13,invalid_high
+Compound,2020-10-14,invalid_high
+Compound,2020-10-15,invalid_high
+Compound,2020-10-16,invalid_high
+Compound,2020-10-17,invalid_high
+Compound,2020-10-18,invalid_high
+Compound,2020-10-20,invalid_high
+Compound,2020-10-21,invalid_high
+Compound,2020-10-22,invalid_high
+Compound,2020-10-23,invalid_high
+Compound,2020-10-24,invalid_high
+Compound,2020-10-25,invalid_high
+Compound,2020-10-27,invalid_high
+Compound,2020-10-30,invalid_high
+Compound,2020-11-01,invalid_high
+Compound,2020-11-02,invalid_high
+Compound,2020-11-03,invalid_high
+Compound,2020-11-04,invalid_high
+Compound,2020-11-10,invalid_high
+Compound,2020-11-11,invalid_high
+Compound,2020-11-12,invalid_high
+Compound,2020-11-13,invalid_high
+Compound,2020-11-17,invalid_high
+Compound,2020-11-19,invalid_high
+Compound,2020-11-20,invalid_high
+Compound,2020-11-21,invalid_high
+Compound,2020-11-23,invalid_high
+Compound,2020-11-24,invalid_high
+Compound,2020-11-28,invalid_high
+Compound,2020-11-29,invalid_high
+Compound,2020-11-30,invalid_high
+Compound,2020-12-02,invalid_high
+Compound,2020-12-04,invalid_high
+Compound,2020-12-05,invalid_high
+Compound,2020-12-06,invalid_high
+Compound,2020-12-09,invalid_high
+Compound,2020-12-20,invalid_high
+Compound,2020-12-21,invalid_high
+Compound,2020-12-24,invalid_high
+Compound,2020-12-27,invalid_high
+Compound,2020-12-28,invalid_high
+Compound,2021-01-01,invalid_high
+Compound,2021-01-02,invalid_high
+Compound,2021-01-03,invalid_high
+Compound,2021-01-04,invalid_high
+Compound,2021-01-05,invalid_high
+Compound,2021-01-06,invalid_high
+Compound,2021-01-07,invalid_high
+Compound,2021-01-08,invalid_high
+Compound,2021-01-09,invalid_high
+Compound,2021-01-10,invalid_high
+Compound,2021-01-11,invalid_high
+Compound,2021-01-12,invalid_high
+Compound,2021-01-13,invalid_high
+Compound,2021-01-14,invalid_high
+Compound,2021-01-15,invalid_high
+Compound,2021-01-16,invalid_high
+Compound,2021-01-17,invalid_high
+Compound,2021-01-18,invalid_high
+Compound,2021-01-19,invalid_high
+Compound,2021-01-20,invalid_high
+Compound,2021-01-21,invalid_high
+Compound,2021-01-22,invalid_high
+Compound,2021-01-23,invalid_high
+Compound,2021-01-24,invalid_high
+Compound,2021-01-25,invalid_high
+Compound,2021-01-26,invalid_high
+Compound,2021-01-27,invalid_high
+Compound,2021-01-28,invalid_high
+Compound,2021-01-30,invalid_high
+Compound,2021-01-31,invalid_high
+Compound,2021-02-01,invalid_high
+Compound,2021-06-08,invalid_high
+Compound,2021-06-15,invalid_high
+Compound,2021-06-16,invalid_high
+Compound,2021-06-17,invalid_high
+Compound,2021-06-18,invalid_high
+Compound,2021-06-19,invalid_high
+Compound,2021-06-20,invalid_high
+Compound,2021-06-21,invalid_high
+Compound,2021-06-22,invalid_high
+Compound,2021-06-23,invalid_high
+Compound,2021-06-24,invalid_high
+Compound,2021-06-25,invalid_high
+Compound,2021-06-26,invalid_high
+Compound,2021-06-27,invalid_high
+Compound,2021-06-28,invalid_high
+Compound,2021-06-29,invalid_high
+Compound,2021-06-30,invalid_high
+Compound,2021-07-01,invalid_high
+Compound,2021-07-02,invalid_high
+Compound,2021-07-03,invalid_high
+Compound,2021-07-04,invalid_high
+Compound,2021-07-05,invalid_high
+Compound,2021-07-06,invalid_high
+Compound,2021-07-07,invalid_high
+Compound,2021-07-08,invalid_high
+Compound,2021-07-09,invalid_high
+Compound,2021-07-10,invalid_high
+Compound,2021-07-11,invalid_high
+Compound,2021-07-12,invalid_high
+Compound,2021-07-13,invalid_high
+Compound,2021-07-14,invalid_high
+Compound,2021-07-15,invalid_high
+Compound,2021-07-16,invalid_high
+Compound,2021-07-17,invalid_high
+Compound,2021-07-18,invalid_high
+Compound,2021-07-19,invalid_high
+Compound,2021-07-20,invalid_high
+Compound,2021-07-21,invalid_high
+Compound,2021-07-22,invalid_high
+Compound,2021-07-23,invalid_high
+Compound,2021-07-24,invalid_high
+Compound,2021-07-25,invalid_high
+Compound,2021-07-26,invalid_high
+Compound,2021-07-27,invalid_high
+Compound,2021-07-28,invalid_high
+Compound,2021-07-29,invalid_high
+Compound,2021-07-30,invalid_high
+Compound,2021-07-31,invalid_high
+Compound,2021-08-01,invalid_high
+Compound,2021-08-02,invalid_high
+Compound,2021-08-03,invalid_high
+Compound,2021-08-04,invalid_high
+Compound,2021-08-05,invalid_high
+Compound,2021-08-06,invalid_high
+Compound,2021-08-07,invalid_high
+Compound,2021-08-08,invalid_high
+Compound,2021-08-09,invalid_high
+Compound,2021-08-10,invalid_high
+Compound,2021-08-12,invalid_high
+Compound,2021-08-13,invalid_high
+Compound,2021-08-14,invalid_high
+Compound,2021-08-17,invalid_high
+Compound,2021-08-18,invalid_high
+Compound,2021-08-19,invalid_high
+Compound,2021-08-20,invalid_high
+Compound,2021-08-21,invalid_high
+Compound,2021-08-22,invalid_high
+Compound,2021-08-23,invalid_high
+Compound,2021-08-24,invalid_high
+Compound,2021-08-25,invalid_high
+Compound,2021-08-26,invalid_high
+Compound,2021-08-27,invalid_high
+Compound,2021-08-28,invalid_high
+Compound,2021-08-29,invalid_high
+Compound,2021-08-30,invalid_high
+Compound,2021-08-31,invalid_high
+Compound,2021-09-01,invalid_high
+Compound,2021-09-02,invalid_high
+Compound,2021-09-03,invalid_high
+Compound,2021-09-04,invalid_high
+Compound,2021-09-05,invalid_high
+Compound,2021-09-06,invalid_high
+Compound,2021-09-07,invalid_high
+Compound,2021-09-08,invalid_high
+Compound,2021-09-09,invalid_high
+Compound,2021-09-10,invalid_high
+Compound,2021-09-11,invalid_high
+Compound,2021-09-12,invalid_high
+Compound,2021-09-13,invalid_high
+Compound,2021-09-14,invalid_high
+Compound,2021-09-15,invalid_high
+Compound,2021-09-16,invalid_high
+Compound,2021-09-17,invalid_high
+Compound,2021-09-18,invalid_high
+Compound,2021-09-19,invalid_high
+Compound,2021-09-20,invalid_high
+Compound,2021-09-21,invalid_high
+Compound,2021-09-22,invalid_high
+Compound,2021-09-23,invalid_high
+Compound,2021-09-24,invalid_high
+Compound,2021-09-25,invalid_high
+Compound,2021-09-26,invalid_high
+Compound,2021-09-28,invalid_high
+Compound,2021-09-29,invalid_high
+Compound,2021-09-30,invalid_high
+Compound,2021-10-01,invalid_high
+Compound,2021-10-02,invalid_high
+Compound,2021-10-03,invalid_high
+Compound,2021-10-04,invalid_high
+Compound,2021-10-05,invalid_high
+Compound,2021-10-06,invalid_high
+Compound,2021-10-07,invalid_high
+Compound,2021-10-08,invalid_high
+Compound,2021-10-09,invalid_high
+Compound,2021-10-10,invalid_high
+Compound,2021-10-11,invalid_high
+Compound,2021-10-12,invalid_high
+Compound,2021-10-13,invalid_high
+Compound,2021-10-14,invalid_high
+Compound,2021-10-15,invalid_high
+Compound,2021-10-16,invalid_high
+Compound,2021-10-17,invalid_high
+Compound,2021-10-18,invalid_high
+Compound,2021-10-19,invalid_high
+Compound,2021-10-20,invalid_high
+Compound,2021-10-21,invalid_high
+Compound,2021-10-22,invalid_high
+Compound,2021-10-23,invalid_high
+Compound,2021-10-24,invalid_high
+Compound,2021-10-25,invalid_high
+Compound,2021-10-26,invalid_high
+Compound,2021-10-27,invalid_high
+Compound,2021-10-28,invalid_high
+Compound,2021-10-29,invalid_high
+Compound,2021-10-30,invalid_high
+Compound,2021-10-31,invalid_high
+Compound,2021-11-01,invalid_high
+Compound,2021-11-02,invalid_high
+Compound,2021-11-03,invalid_high
+Compound,2021-11-04,invalid_high
+Compound,2021-11-05,invalid_high
+Compound,2021-11-06,invalid_high
+Compound,2021-11-07,invalid_high
+Compound,2021-11-08,invalid_high
+Compound,2021-11-09,invalid_high
+Compound,2021-11-10,invalid_high
+Compound,2021-11-11,invalid_high
+Compound,2021-11-12,invalid_high
+Compound,2021-11-13,invalid_high
+Compound,2021-11-14,invalid_high
+Compound,2021-11-15,invalid_high
+Compound,2021-11-16,invalid_high
+Compound,2021-11-17,invalid_high
+Compound,2021-11-18,invalid_high
+Compound,2021-11-19,invalid_high
+Compound,2021-11-20,invalid_high
+Compound,2021-11-21,invalid_high
+Compound,2021-11-22,invalid_high
+Compound,2021-11-23,invalid_high
+Compound,2021-11-24,invalid_high
+Compound,2021-11-25,invalid_high
+Compound,2021-11-26,invalid_high
+Compound,2021-11-27,invalid_high
+Compound,2021-11-28,invalid_high
+Compound,2021-11-29,invalid_high
+Compound,2021-11-30,invalid_high
+Compound,2021-12-01,invalid_high
+Compound,2021-12-02,invalid_high
+Compound,2021-12-03,invalid_high
+Compound,2021-12-04,invalid_high
+Compound,2021-12-05,invalid_high
+Compound,2021-12-06,invalid_high
+Compound,2021-12-07,invalid_high
+Compound,2021-12-08,invalid_high
+Compound,2021-12-09,invalid_high
+Compound,2021-12-10,invalid_high
+Compound,2021-12-11,invalid_high
+Compound,2021-12-12,invalid_high
+Compound,2021-12-13,invalid_high
+Compound,2021-12-14,invalid_high
+Compound,2021-12-15,invalid_high
+Compound,2021-12-16,invalid_high
+Compound,2021-12-17,invalid_high
+Compound,2021-12-18,invalid_high
+Compound,2021-12-19,invalid_high
+Compound,2021-12-20,invalid_high
+Compound,2021-12-21,invalid_high
+Compound,2021-12-22,invalid_high
+Compound,2021-12-23,invalid_high
+Compound,2021-12-24,invalid_high
+Compound,2021-12-25,invalid_high
+Compound,2021-12-26,invalid_high
+Compound,2021-12-27,invalid_high
+Compound,2021-12-28,invalid_high
+Compound,2021-12-29,invalid_high
+Compound,2021-12-30,invalid_high
+Compound,2021-12-31,invalid_high
+Compound,2022-01-01,invalid_high
+Compound,2022-01-02,invalid_high
+Compound,2022-01-03,invalid_high
+Compound,2022-01-04,invalid_high
+Compound,2022-01-05,invalid_high
+Compound,2022-01-06,invalid_high
+Compound,2022-01-07,invalid_high
+Compound,2022-01-08,invalid_high
+Compound,2022-01-09,invalid_high
+Compound,2022-01-10,invalid_high
+Compound,2022-01-11,invalid_high
+Compound,2022-01-12,invalid_high
+Compound,2022-01-13,invalid_high
+Compound,2022-01-14,invalid_high
+Compound,2022-01-15,invalid_high
+Compound,2022-01-16,invalid_high
+Compound,2022-01-17,invalid_high
+Compound,2022-01-18,invalid_high
+Compound,2022-01-19,invalid_high
+Compound,2022-01-20,invalid_high
+Compound,2022-01-21,invalid_high
+Compound,2022-01-22,invalid_high
+Compound,2022-01-23,invalid_high
+Compound,2019-05-27,invalid_low
+Compound,2019-05-28,invalid_low
+Compound,2019-05-30,invalid_low
+Compound,2019-05-31,invalid_low
+Compound,2019-06-01,invalid_low
+Compound,2019-06-02,invalid_low
+Compound,2019-06-03,invalid_low
+Compound,2019-06-04,invalid_low
+Compound,2019-06-05,invalid_low
+Compound,2019-06-06,invalid_low
+Compound,2019-06-07,invalid_low
+Compound,2019-06-08,invalid_low
+Compound,2019-06-09,invalid_low
+Compound,2019-06-10,invalid_low
+Compound,2019-06-11,invalid_low
+Compound,2019-06-12,invalid_low
+Compound,2019-06-13,invalid_low
+Compound,2020-09-23,invalid_low
+Compound,2020-09-24,invalid_low
+Compound,2020-09-25,invalid_low
+Compound,2020-09-26,invalid_low
+Compound,2020-09-27,invalid_low
+Compound,2020-09-28,invalid_low
+Compound,2020-09-29,invalid_low
+Compound,2020-09-30,invalid_low
+Compound,2020-10-02,invalid_low
+Compound,2020-10-03,invalid_low
+Compound,2020-10-04,invalid_low
+Compound,2020-10-06,invalid_low
+Compound,2020-10-07,invalid_low
+Compound,2020-10-08,invalid_low
+Compound,2020-10-09,invalid_low
+Compound,2020-10-10,invalid_low
+Compound,2020-10-12,invalid_low
+Compound,2020-10-13,invalid_low
+Compound,2020-10-14,invalid_low
+Compound,2020-10-15,invalid_low
+Compound,2020-10-16,invalid_low
+Compound,2020-10-17,invalid_low
+Compound,2020-10-18,invalid_low
+Compound,2020-10-19,invalid_low
+Compound,2020-10-20,invalid_low
+Compound,2020-10-21,invalid_low
+Compound,2020-10-22,invalid_low
+Compound,2020-10-23,invalid_low
+Compound,2020-10-24,invalid_low
+Compound,2020-10-25,invalid_low
+Compound,2020-10-26,invalid_low
+Compound,2020-10-27,invalid_low
+Compound,2020-10-28,invalid_low
+Compound,2020-10-29,invalid_low
+Compound,2020-10-30,invalid_low
+Compound,2020-10-31,invalid_low
+Compound,2020-11-01,invalid_low
+Compound,2020-11-02,invalid_low
+Compound,2020-11-03,invalid_low
+Compound,2020-11-04,invalid_low
+Compound,2020-11-05,invalid_low
+Compound,2020-11-06,invalid_low
+Compound,2020-11-07,invalid_low
+Compound,2020-11-08,invalid_low
+Compound,2020-11-09,invalid_low
+Compound,2020-11-10,invalid_low
+Compound,2020-11-11,invalid_low
+Compound,2020-11-12,invalid_low
+Compound,2020-11-13,invalid_low
+Compound,2020-11-14,invalid_low
+Compound,2020-11-15,invalid_low
+Compound,2020-11-16,invalid_low
+Compound,2020-11-17,invalid_low
+Compound,2020-11-18,invalid_low
+Compound,2020-11-19,invalid_low
+Compound,2020-11-20,invalid_low
+Compound,2020-11-21,invalid_low
+Compound,2020-11-22,invalid_low
+Compound,2020-11-23,invalid_low
+Compound,2020-11-24,invalid_low
+Compound,2020-11-25,invalid_low
+Compound,2020-11-27,invalid_low
+Compound,2020-11-28,invalid_low
+Compound,2020-11-29,invalid_low
+Compound,2020-11-30,invalid_low
+Compound,2020-12-01,invalid_low
+Compound,2020-12-02,invalid_low
+Compound,2020-12-03,invalid_low
+Compound,2020-12-04,invalid_low
+Compound,2020-12-05,invalid_low
+Compound,2020-12-06,invalid_low
+Compound,2020-12-07,invalid_low
+Compound,2020-12-08,invalid_low
+Compound,2020-12-09,invalid_low
+Compound,2020-12-10,invalid_low
+Compound,2020-12-13,invalid_low
+Compound,2020-12-14,invalid_low
+Compound,2020-12-15,invalid_low
+Compound,2020-12-16,invalid_low
+Compound,2020-12-19,invalid_low
+Compound,2020-12-20,invalid_low
+Compound,2020-12-21,invalid_low
+Compound,2020-12-22,invalid_low
+Compound,2020-12-23,invalid_low
+Compound,2020-12-24,invalid_low
+Compound,2020-12-25,invalid_low
+Compound,2020-12-26,invalid_low
+Compound,2020-12-27,invalid_low
+Compound,2020-12-28,invalid_low
+Compound,2020-12-29,invalid_low
+Compound,2020-12-31,invalid_low
+Compound,2021-01-01,invalid_low
+Compound,2021-01-02,invalid_low
+Compound,2021-01-03,invalid_low
+Compound,2021-01-04,invalid_low
+Compound,2021-01-05,invalid_low
+Compound,2021-01-06,invalid_low
+Compound,2021-01-07,invalid_low
+Compound,2021-01-08,invalid_low
+Compound,2021-01-09,invalid_low
+Compound,2021-01-10,invalid_low
+Compound,2021-01-11,invalid_low
+Compound,2021-01-12,invalid_low
+Compound,2021-01-13,invalid_low
+Compound,2021-01-14,invalid_low
+Compound,2021-01-15,invalid_low
+Compound,2021-01-16,invalid_low
+Compound,2021-01-17,invalid_low
+Compound,2021-01-18,invalid_low
+Compound,2021-01-19,invalid_low
+Compound,2021-01-20,invalid_low
+Compound,2021-01-21,invalid_low
+Compound,2021-01-22,invalid_low
+Compound,2021-01-23,invalid_low
+Compound,2021-01-24,invalid_low
+Compound,2021-01-25,invalid_low
+Compound,2021-01-26,invalid_low
+Compound,2021-01-27,invalid_low
+Compound,2021-01-28,invalid_low
+Compound,2021-01-29,invalid_low
+Compound,2021-01-30,invalid_low
+Compound,2021-01-31,invalid_low
+Compound,2021-02-01,invalid_low
+Compound,2021-02-03,invalid_low
+Compound,2021-02-04,invalid_low
+Compound,2021-02-16,invalid_low
+Compound,2021-02-17,invalid_low
+Compound,2021-02-18,invalid_low
+Compound,2021-02-19,invalid_low
+Compound,2021-02-20,invalid_low
+Compound,2021-04-17,invalid_low
+Compound,2021-04-18,invalid_low
+Compound,2021-04-19,invalid_low
+Compound,2021-04-21,invalid_low
+Compound,2021-04-22,invalid_low
+Compound,2021-04-23,invalid_low
+Compound,2021-05-23,invalid_low
+Compound,2021-05-30,invalid_low
+Compound,2021-06-02,invalid_low
+Compound,2021-06-04,invalid_low
+Compound,2021-06-06,invalid_low
+Compound,2021-06-07,invalid_low
+Compound,2021-06-08,invalid_low
+Compound,2021-06-09,invalid_low
+Compound,2021-06-10,invalid_low
+Compound,2021-06-11,invalid_low
+Compound,2021-06-12,invalid_low
+Compound,2021-06-13,invalid_low
+Compound,2021-06-14,invalid_low
+Compound,2021-06-15,invalid_low
+Compound,2021-06-16,invalid_low
+Compound,2021-06-17,invalid_low
+Compound,2021-06-18,invalid_low
+Compound,2021-06-19,invalid_low
+Compound,2021-06-20,invalid_low
+Compound,2021-06-21,invalid_low
+Compound,2021-06-22,invalid_low
+Compound,2021-06-23,invalid_low
+Compound,2021-06-24,invalid_low
+Compound,2021-06-25,invalid_low
+Compound,2021-06-26,invalid_low
+Compound,2021-06-27,invalid_low
+Compound,2021-06-28,invalid_low
+Compound,2021-06-29,invalid_low
+Compound,2021-06-30,invalid_low
+Compound,2021-07-01,invalid_low
+Compound,2021-07-02,invalid_low
+Compound,2021-07-03,invalid_low
+Compound,2021-07-04,invalid_low
+Compound,2021-07-05,invalid_low
+Compound,2021-07-06,invalid_low
+Compound,2021-07-07,invalid_low
+Compound,2021-07-08,invalid_low
+Compound,2021-07-09,invalid_low
+Compound,2021-07-10,invalid_low
+Compound,2021-07-11,invalid_low
+Compound,2021-07-12,invalid_low
+Compound,2021-07-13,invalid_low
+Compound,2021-07-14,invalid_low
+Compound,2021-07-15,invalid_low
+Compound,2021-07-16,invalid_low
+Compound,2021-07-17,invalid_low
+Compound,2021-07-18,invalid_low
+Compound,2021-07-19,invalid_low
+Compound,2021-07-20,invalid_low
+Compound,2021-07-21,invalid_low
+Compound,2021-07-22,invalid_low
+Compound,2021-07-23,invalid_low
+Compound,2021-07-24,invalid_low
+Compound,2021-07-25,invalid_low
+Compound,2021-07-26,invalid_low
+Compound,2021-07-27,invalid_low
+Compound,2021-07-28,invalid_low
+Compound,2021-07-29,invalid_low
+Compound,2021-07-30,invalid_low
+Compound,2021-07-31,invalid_low
+Compound,2021-08-01,invalid_low
+Compound,2021-08-02,invalid_low
+Compound,2021-08-03,invalid_low
+Compound,2021-08-04,invalid_low
+Compound,2021-08-05,invalid_low
+Compound,2021-08-06,invalid_low
+Compound,2021-08-07,invalid_low
+Compound,2021-08-08,invalid_low
+Compound,2021-08-09,invalid_low
+Compound,2021-08-10,invalid_low
+Compound,2021-08-11,invalid_low
+Compound,2021-08-12,invalid_low
+Compound,2021-08-13,invalid_low
+Compound,2021-08-14,invalid_low
+Compound,2021-08-15,invalid_low
+Compound,2021-08-16,invalid_low
+Compound,2021-08-17,invalid_low
+Compound,2021-08-18,invalid_low
+Compound,2021-08-19,invalid_low
+Compound,2021-08-20,invalid_low
+Compound,2021-08-21,invalid_low
+Compound,2021-08-22,invalid_low
+Compound,2021-08-23,invalid_low
+Compound,2021-08-24,invalid_low
+Compound,2021-08-25,invalid_low
+Compound,2021-08-26,invalid_low
+Compound,2021-08-27,invalid_low
+Compound,2021-08-28,invalid_low
+Compound,2021-08-29,invalid_low
+Compound,2021-08-30,invalid_low
+Compound,2021-08-31,invalid_low
+Compound,2021-09-01,invalid_low
+Compound,2021-09-02,invalid_low
+Compound,2021-09-03,invalid_low
+Compound,2021-09-04,invalid_low
+Compound,2021-09-05,invalid_low
+Compound,2021-09-06,invalid_low
+Compound,2021-09-07,invalid_low
+Compound,2021-09-08,invalid_low
+Compound,2021-09-09,invalid_low
+Compound,2021-09-10,invalid_low
+Compound,2021-09-11,invalid_low
+Compound,2021-09-12,invalid_low
+Compound,2021-09-13,invalid_low
+Compound,2021-09-14,invalid_low
+Compound,2021-09-15,invalid_low
+Compound,2021-09-16,invalid_low
+Compound,2021-09-17,invalid_low
+Compound,2021-09-18,invalid_low
+Compound,2021-09-19,invalid_low
+Compound,2021-09-20,invalid_low
+Compound,2021-09-21,invalid_low
+Compound,2021-09-22,invalid_low
+Compound,2021-09-23,invalid_low
+Compound,2021-09-24,invalid_low
+Compound,2021-09-25,invalid_low
+Compound,2021-09-26,invalid_low
+Compound,2021-09-27,invalid_low
+Compound,2021-09-28,invalid_low
+Compound,2021-09-29,invalid_low
+Compound,2021-09-30,invalid_low
+Compound,2021-10-01,invalid_low
+Compound,2021-10-02,invalid_low
+Compound,2021-10-03,invalid_low
+Compound,2021-10-04,invalid_low
+Compound,2021-10-05,invalid_low
+Compound,2021-10-06,invalid_low
+Compound,2021-10-07,invalid_low
+Compound,2021-10-08,invalid_low
+Compound,2021-10-09,invalid_low
+Compound,2021-10-10,invalid_low
+Compound,2021-10-11,invalid_low
+Compound,2021-10-12,invalid_low
+Compound,2021-10-13,invalid_low
+Compound,2021-10-14,invalid_low
+Compound,2021-10-15,invalid_low
+Compound,2021-10-16,invalid_low
+Compound,2021-10-17,invalid_low
+Compound,2021-10-18,invalid_low
+Compound,2021-10-19,invalid_low
+Compound,2021-10-20,invalid_low
+Compound,2021-10-21,invalid_low
+Compound,2021-10-22,invalid_low
+Compound,2021-10-23,invalid_low
+Compound,2021-10-24,invalid_low
+Compound,2021-10-25,invalid_low
+Compound,2021-10-26,invalid_low
+Compound,2021-10-27,invalid_low
+Compound,2021-10-28,invalid_low
+Compound,2021-10-29,invalid_low
+Compound,2021-10-30,invalid_low
+Compound,2021-10-31,invalid_low
+Compound,2021-11-01,invalid_low
+Compound,2021-11-02,invalid_low
+Compound,2021-11-03,invalid_low
+Compound,2021-11-04,invalid_low
+Compound,2021-11-05,invalid_low
+Compound,2021-11-06,invalid_low
+Compound,2021-11-07,invalid_low
+Compound,2021-11-08,invalid_low
+Compound,2021-11-09,invalid_low
+Compound,2021-11-10,invalid_low
+Compound,2021-11-11,invalid_low
+Compound,2021-11-12,invalid_low
+Compound,2021-11-13,invalid_low
+Compound,2021-11-14,invalid_low
+Compound,2021-11-15,invalid_low
+Compound,2021-11-16,invalid_low
+Compound,2021-11-17,invalid_low
+Compound,2021-11-18,invalid_low
+Compound,2021-11-19,invalid_low
+Compound,2021-11-20,invalid_low
+Compound,2021-11-21,invalid_low
+Compound,2021-11-22,invalid_low
+Compound,2021-11-23,invalid_low
+Compound,2021-11-24,invalid_low
+Compound,2021-11-25,invalid_low
+Compound,2021-11-26,invalid_low
+Compound,2021-11-27,invalid_low
+Compound,2021-11-28,invalid_low
+Compound,2021-11-29,invalid_low
+Compound,2021-11-30,invalid_low
+Compound,2021-12-01,invalid_low
+Compound,2021-12-02,invalid_low
+Compound,2021-12-03,invalid_low
+Compound,2021-12-04,invalid_low
+Compound,2021-12-05,invalid_low
+Compound,2021-12-06,invalid_low
+Compound,2021-12-07,invalid_low
+Compound,2021-12-08,invalid_low
+Compound,2021-12-09,invalid_low
+Compound,2021-12-10,invalid_low
+Compound,2021-12-11,invalid_low
+Compound,2021-12-12,invalid_low
+Compound,2021-12-13,invalid_low
+Compound,2021-12-14,invalid_low
+Compound,2021-12-15,invalid_low
+Compound,2021-12-16,invalid_low
+Compound,2021-12-17,invalid_low
+Compound,2021-12-18,invalid_low
+Compound,2021-12-19,invalid_low
+Compound,2021-12-20,invalid_low
+Compound,2021-12-21,invalid_low
+Compound,2021-12-22,invalid_low
+Compound,2021-12-23,invalid_low
+Compound,2021-12-24,invalid_low
+Compound,2021-12-25,invalid_low
+Compound,2021-12-26,invalid_low
+Compound,2021-12-27,invalid_low
+Compound,2021-12-28,invalid_low
+Compound,2021-12-29,invalid_low
+Compound,2021-12-30,invalid_low
+Compound,2021-12-31,invalid_low
+Compound,2022-01-01,invalid_low
+Compound,2022-01-02,invalid_low
+Compound,2022-01-03,invalid_low
+Compound,2022-01-04,invalid_low
+Compound,2022-01-05,invalid_low
+Compound,2022-01-06,invalid_low
+Compound,2022-01-07,invalid_low
+Compound,2022-01-08,invalid_low
+Compound,2022-01-09,invalid_low
+Compound,2022-01-10,invalid_low
+Compound,2022-01-11,invalid_low
+Compound,2022-01-12,invalid_low
+Compound,2022-01-13,invalid_low
+Compound,2022-01-14,invalid_low
+Compound,2022-01-15,invalid_low
+Compound,2022-01-16,invalid_low
+Compound,2022-01-17,invalid_low
+Compound,2022-01-18,invalid_low
+Compound,2022-01-19,invalid_low
+Compound,2022-01-20,invalid_low
+Compound,2022-01-21,invalid_low
+Compound,2022-01-22,invalid_low
+Compound,2022-01-23,invalid_low
+Compound,2019-05-27,invalid_close
+Compound,2019-05-31,invalid_close
+Compound,2019-06-01,invalid_close
+Compound,2019-06-02,invalid_close
+Compound,2019-06-03,invalid_close
+Compound,2019-06-04,invalid_close
+Compound,2019-06-05,invalid_close
+Compound,2019-06-06,invalid_close
+Compound,2019-06-08,invalid_close
+Compound,2019-06-09,invalid_close
+Compound,2019-06-10,invalid_close
+Compound,2019-06-11,invalid_close
+Compound,2019-06-12,invalid_close
+Compound,2020-09-23,invalid_close
+Compound,2020-09-24,invalid_close
+Compound,2020-09-25,invalid_close
+Compound,2020-09-27,invalid_close
+Compound,2020-09-28,invalid_close
+Compound,2020-09-29,invalid_close
+Compound,2020-10-02,invalid_close
+Compound,2020-10-03,invalid_close
+Compound,2020-10-07,invalid_close
+Compound,2020-10-08,invalid_close
+Compound,2020-10-09,invalid_close
+Compound,2020-10-12,invalid_close
+Compound,2020-10-13,invalid_close
+Compound,2020-10-14,invalid_close
+Compound,2020-10-15,invalid_close
+Compound,2020-10-16,invalid_close
+Compound,2020-10-17,invalid_close
+Compound,2020-10-18,invalid_close
+Compound,2020-10-19,invalid_close
+Compound,2020-10-20,invalid_close
+Compound,2020-10-21,invalid_close
+Compound,2020-10-22,invalid_close
+Compound,2020-10-23,invalid_close
+Compound,2020-10-24,invalid_close
+Compound,2020-10-25,invalid_close
+Compound,2020-10-26,invalid_close
+Compound,2020-10-27,invalid_close
+Compound,2020-10-28,invalid_close
+Compound,2020-10-29,invalid_close
+Compound,2020-10-30,invalid_close
+Compound,2020-10-31,invalid_close
+Compound,2020-11-01,invalid_close
+Compound,2020-11-02,invalid_close
+Compound,2020-11-03,invalid_close
+Compound,2020-11-04,invalid_close
+Compound,2020-11-05,invalid_close
+Compound,2020-11-07,invalid_close
+Compound,2020-11-09,invalid_close
+Compound,2020-11-10,invalid_close
+Compound,2020-11-11,invalid_close
+Compound,2020-11-12,invalid_close
+Compound,2020-11-13,invalid_close
+Compound,2020-11-14,invalid_close
+Compound,2020-11-16,invalid_close
+Compound,2020-11-17,invalid_close
+Compound,2020-11-18,invalid_close
+Compound,2020-11-19,invalid_close
+Compound,2020-11-20,invalid_close
+Compound,2020-11-21,invalid_close
+Compound,2020-11-22,invalid_close
+Compound,2020-11-23,invalid_close
+Compound,2020-11-24,invalid_close
+Compound,2020-11-27,invalid_close
+Compound,2020-11-28,invalid_close
+Compound,2020-11-29,invalid_close
+Compound,2020-11-30,invalid_close
+Compound,2020-12-01,invalid_close
+Compound,2020-12-02,invalid_close
+Compound,2020-12-03,invalid_close
+Compound,2020-12-04,invalid_close
+Compound,2020-12-05,invalid_close
+Compound,2020-12-06,invalid_close
+Compound,2020-12-08,invalid_close
+Compound,2020-12-09,invalid_close
+Compound,2020-12-13,invalid_close
+Compound,2020-12-19,invalid_close
+Compound,2020-12-20,invalid_close
+Compound,2020-12-21,invalid_close
+Compound,2020-12-23,invalid_close
+Compound,2020-12-24,invalid_close
+Compound,2020-12-26,invalid_close
+Compound,2020-12-27,invalid_close
+Compound,2020-12-28,invalid_close
+Compound,2020-12-31,invalid_close
+Compound,2021-01-01,invalid_close
+Compound,2021-01-02,invalid_close
+Compound,2021-01-03,invalid_close
+Compound,2021-01-04,invalid_close
+Compound,2021-01-05,invalid_close
+Compound,2021-01-06,invalid_close
+Compound,2021-01-07,invalid_close
+Compound,2021-01-08,invalid_close
+Compound,2021-01-09,invalid_close
+Compound,2021-01-10,invalid_close
+Compound,2021-01-11,invalid_close
+Compound,2021-01-12,invalid_close
+Compound,2021-01-13,invalid_close
+Compound,2021-01-14,invalid_close
+Compound,2021-01-15,invalid_close
+Compound,2021-01-16,invalid_close
+Compound,2021-01-17,invalid_close
+Compound,2021-01-18,invalid_close
+Compound,2021-01-19,invalid_close
+Compound,2021-01-20,invalid_close
+Compound,2021-01-21,invalid_close
+Compound,2021-01-22,invalid_close
+Compound,2021-01-23,invalid_close
+Compound,2021-01-24,invalid_close
+Compound,2021-01-25,invalid_close
+Compound,2021-01-26,invalid_close
+Compound,2021-01-27,invalid_close
+Compound,2021-01-28,invalid_close
+Compound,2021-01-29,invalid_close
+Compound,2021-01-30,invalid_close
+Compound,2021-01-31,invalid_close
+Compound,2021-02-01,invalid_close
+Compound,2021-02-03,invalid_close
+Compound,2021-02-17,invalid_close
+Compound,2021-04-17,invalid_close
+Compound,2021-04-18,invalid_close
+Compound,2021-04-21,invalid_close
+Compound,2021-06-06,invalid_close
+Compound,2021-06-07,invalid_close
+Compound,2021-06-08,invalid_close
+Compound,2021-06-10,invalid_close
+Compound,2021-06-11,invalid_close
+Compound,2021-06-12,invalid_close
+Compound,2021-06-15,invalid_close
+Compound,2021-06-16,invalid_close
+Compound,2021-06-17,invalid_close
+Compound,2021-06-18,invalid_close
+Compound,2021-06-19,invalid_close
+Compound,2021-06-20,invalid_close
+Compound,2021-06-21,invalid_close
+Compound,2021-06-22,invalid_close
+Compound,2021-06-23,invalid_close
+Compound,2021-06-24,invalid_close
+Compound,2021-06-25,invalid_close
+Compound,2021-06-26,invalid_close
+Compound,2021-06-27,invalid_close
+Compound,2021-06-28,invalid_close
+Compound,2021-06-29,invalid_close
+Compound,2021-06-30,invalid_close
+Compound,2021-07-01,invalid_close
+Compound,2021-07-02,invalid_close
+Compound,2021-07-03,invalid_close
+Compound,2021-07-04,invalid_close
+Compound,2021-07-05,invalid_close
+Compound,2021-07-06,invalid_close
+Compound,2021-07-07,invalid_close
+Compound,2021-07-08,invalid_close
+Compound,2021-07-09,invalid_close
+Compound,2021-07-10,invalid_close
+Compound,2021-07-11,invalid_close
+Compound,2021-07-12,invalid_close
+Compound,2021-07-13,invalid_close
+Compound,2021-07-14,invalid_close
+Compound,2021-07-15,invalid_close
+Compound,2021-07-16,invalid_close
+Compound,2021-07-17,invalid_close
+Compound,2021-07-18,invalid_close
+Compound,2021-07-19,invalid_close
+Compound,2021-07-20,invalid_close
+Compound,2021-07-21,invalid_close
+Compound,2021-07-22,invalid_close
+Compound,2021-07-23,invalid_close
+Compound,2021-07-24,invalid_close
+Compound,2021-07-25,invalid_close
+Compound,2021-07-26,invalid_close
+Compound,2021-07-27,invalid_close
+Compound,2021-07-28,invalid_close
+Compound,2021-07-29,invalid_close
+Compound,2021-07-30,invalid_close
+Compound,2021-07-31,invalid_close
+Compound,2021-08-01,invalid_close
+Compound,2021-08-02,invalid_close
+Compound,2021-08-03,invalid_close
+Compound,2021-08-04,invalid_close
+Compound,2021-08-05,invalid_close
+Compound,2021-08-06,invalid_close
+Compound,2021-08-07,invalid_close
+Compound,2021-08-08,invalid_close
+Compound,2021-08-09,invalid_close
+Compound,2021-08-10,invalid_close
+Compound,2021-08-11,invalid_close
+Compound,2021-08-12,invalid_close
+Compound,2021-08-13,invalid_close
+Compound,2021-08-14,invalid_close
+Compound,2021-08-16,invalid_close
+Compound,2021-08-17,invalid_close
+Compound,2021-08-18,invalid_close
+Compound,2021-08-19,invalid_close
+Compound,2021-08-20,invalid_close
+Compound,2021-08-21,invalid_close
+Compound,2021-08-22,invalid_close
+Compound,2021-08-23,invalid_close
+Compound,2021-08-24,invalid_close
+Compound,2021-08-25,invalid_close
+Compound,2021-08-26,invalid_close
+Compound,2021-08-27,invalid_close
+Compound,2021-08-28,invalid_close
+Compound,2021-08-29,invalid_close
+Compound,2021-08-30,invalid_close
+Compound,2021-08-31,invalid_close
+Compound,2021-09-01,invalid_close
+Compound,2021-09-02,invalid_close
+Compound,2021-09-03,invalid_close
+Compound,2021-09-04,invalid_close
+Compound,2021-09-05,invalid_close
+Compound,2021-09-06,invalid_close
+Compound,2021-09-07,invalid_close
+Compound,2021-09-08,invalid_close
+Compound,2021-09-09,invalid_close
+Compound,2021-09-10,invalid_close
+Compound,2021-09-11,invalid_close
+Compound,2021-09-12,invalid_close
+Compound,2021-09-13,invalid_close
+Compound,2021-09-14,invalid_close
+Compound,2021-09-15,invalid_close
+Compound,2021-09-16,invalid_close
+Compound,2021-09-17,invalid_close
+Compound,2021-09-18,invalid_close
+Compound,2021-09-19,invalid_close
+Compound,2021-09-20,invalid_close
+Compound,2021-09-21,invalid_close
+Compound,2021-09-22,invalid_close
+Compound,2021-09-23,invalid_close
+Compound,2021-09-24,invalid_close
+Compound,2021-09-25,invalid_close
+Compound,2021-09-26,invalid_close
+Compound,2021-09-27,invalid_close
+Compound,2021-09-28,invalid_close
+Compound,2021-09-29,invalid_close
+Compound,2021-09-30,invalid_close
+Compound,2021-10-01,invalid_close
+Compound,2021-10-02,invalid_close
+Compound,2021-10-03,invalid_close
+Compound,2021-10-04,invalid_close
+Compound,2021-10-05,invalid_close
+Compound,2021-10-06,invalid_close
+Compound,2021-10-07,invalid_close
+Compound,2021-10-08,invalid_close
+Compound,2021-10-09,invalid_close
+Compound,2021-10-10,invalid_close
+Compound,2021-10-11,invalid_close
+Compound,2021-10-12,invalid_close
+Compound,2021-10-13,invalid_close
+Compound,2021-10-14,invalid_close
+Compound,2021-10-15,invalid_close
+Compound,2021-10-16,invalid_close
+Compound,2021-10-17,invalid_close
+Compound,2021-10-18,invalid_close
+Compound,2021-10-19,invalid_close
+Compound,2021-10-20,invalid_close
+Compound,2021-10-21,invalid_close
+Compound,2021-10-22,invalid_close
+Compound,2021-10-23,invalid_close
+Compound,2021-10-24,invalid_close
+Compound,2021-10-25,invalid_close
+Compound,2021-10-26,invalid_close
+Compound,2021-10-27,invalid_close
+Compound,2021-10-28,invalid_close
+Compound,2021-10-29,invalid_close
+Compound,2021-10-30,invalid_close
+Compound,2021-10-31,invalid_close
+Compound,2021-11-01,invalid_close
+Compound,2021-11-02,invalid_close
+Compound,2021-11-03,invalid_close
+Compound,2021-11-04,invalid_close
+Compound,2021-11-05,invalid_close
+Compound,2021-11-06,invalid_close
+Compound,2021-11-07,invalid_close
+Compound,2021-11-08,invalid_close
+Compound,2021-11-09,invalid_close
+Compound,2021-11-10,invalid_close
+Compound,2021-11-11,invalid_close
+Compound,2021-11-12,invalid_close
+Compound,2021-11-13,invalid_close
+Compound,2021-11-14,invalid_close
+Compound,2021-11-15,invalid_close
+Compound,2021-11-16,invalid_close
+Compound,2021-11-17,invalid_close
+Compound,2021-11-18,invalid_close
+Compound,2021-11-19,invalid_close
+Compound,2021-11-20,invalid_close
+Compound,2021-11-21,invalid_close
+Compound,2021-11-22,invalid_close
+Compound,2021-11-23,invalid_close
+Compound,2021-11-24,invalid_close
+Compound,2021-11-25,invalid_close
+Compound,2021-11-26,invalid_close
+Compound,2021-11-27,invalid_close
+Compound,2021-11-28,invalid_close
+Compound,2021-11-29,invalid_close
+Compound,2021-11-30,invalid_close
+Compound,2021-12-01,invalid_close
+Compound,2021-12-02,invalid_close
+Compound,2021-12-03,invalid_close
+Compound,2021-12-04,invalid_close
+Compound,2021-12-05,invalid_close
+Compound,2021-12-06,invalid_close
+Compound,2021-12-07,invalid_close
+Compound,2021-12-08,invalid_close
+Compound,2021-12-09,invalid_close
+Compound,2021-12-10,invalid_close
+Compound,2021-12-11,invalid_close
+Compound,2021-12-12,invalid_close
+Compound,2021-12-13,invalid_close
+Compound,2021-12-14,invalid_close
+Compound,2021-12-15,invalid_close
+Compound,2021-12-16,invalid_close
+Compound,2021-12-17,invalid_close
+Compound,2021-12-18,invalid_close
+Compound,2021-12-19,invalid_close
+Compound,2021-12-20,invalid_close
+Compound,2021-12-21,invalid_close
+Compound,2021-12-22,invalid_close
+Compound,2021-12-23,invalid_close
+Compound,2021-12-24,invalid_close
+Compound,2021-12-25,invalid_close
+Compound,2021-12-26,invalid_close
+Compound,2021-12-27,invalid_close
+Compound,2021-12-28,invalid_close
+Compound,2021-12-29,invalid_close
+Compound,2021-12-30,invalid_close
+Compound,2021-12-31,invalid_close
+Compound,2022-01-01,invalid_close
+Compound,2022-01-02,invalid_close
+Compound,2022-01-03,invalid_close
+Compound,2022-01-04,invalid_close
+Compound,2022-01-05,invalid_close
+Compound,2022-01-06,invalid_close
+Compound,2022-01-07,invalid_close
+Compound,2022-01-08,invalid_close
+Compound,2022-01-09,invalid_close
+Compound,2022-01-10,invalid_close
+Compound,2022-01-11,invalid_close
+Compound,2022-01-12,invalid_close
+Compound,2022-01-13,invalid_close
+Compound,2022-01-14,invalid_close
+Compound,2022-01-15,invalid_close
+Compound,2022-01-16,invalid_close
+Compound,2022-01-17,invalid_close
+Compound,2022-01-18,invalid_close
+Compound,2022-01-19,invalid_close
+Compound,2022-01-20,invalid_close
+Compound,2022-01-21,invalid_close
+Compound,2022-01-22,invalid_close
+Compound,2022-01-23,invalid_close
+Compound,2019-06-23,missing_calendar_day
+Compound,2019-06-24,missing_calendar_day
+Compound,2019-06-25,missing_calendar_day
+Compound,2019-06-26,missing_calendar_day
+Compound,2019-06-27,missing_calendar_day
+Compound,2019-06-28,missing_calendar_day
+Compound,2019-06-29,missing_calendar_day
+Compound,2019-06-30,missing_calendar_day
+Compound,2019-07-01,missing_calendar_day
+Compound,2019-07-02,missing_calendar_day
+Compound,2019-07-03,missing_calendar_day
+Compound,2019-07-04,missing_calendar_day
+Compound,2019-07-05,missing_calendar_day
+Compound,2019-07-06,missing_calendar_day
+Compound,2019-07-07,missing_calendar_day
+Compound,2019-07-08,missing_calendar_day
+Compound,2019-07-09,missing_calendar_day
+Compound,2019-07-10,missing_calendar_day
+Compound,2019-07-11,missing_calendar_day
+Compound,2019-07-12,missing_calendar_day
+Compound,2019-07-13,missing_calendar_day
+Compound,2019-07-14,missing_calendar_day
+Compound,2019-07-15,missing_calendar_day
+Compound,2019-07-16,missing_calendar_day
+Compound,2019-07-17,missing_calendar_day
+Compound,2019-07-18,missing_calendar_day
+Compound,2019-07-19,missing_calendar_day
+Compound,2019-07-20,missing_calendar_day
+Compound,2019-07-21,missing_calendar_day
+Compound,2019-07-22,missing_calendar_day
+Compound,2019-07-23,missing_calendar_day
+Compound,2019-07-24,missing_calendar_day
+Compound,2019-07-25,missing_calendar_day
+Compound,2019-07-26,missing_calendar_day
+Compound,2019-07-27,missing_calendar_day
+Compound,2019-07-28,missing_calendar_day
+Compound,2019-07-29,missing_calendar_day
+Compound,2019-07-30,missing_calendar_day
+Compound,2019-07-31,missing_calendar_day
+Compound,2019-08-01,missing_calendar_day
+Compound,2019-08-02,missing_calendar_day
+Compound,2019-08-03,missing_calendar_day
+Compound,2019-08-04,missing_calendar_day
+Compound,2019-08-05,missing_calendar_day
+Compound,2019-08-06,missing_calendar_day
+Compound,2019-08-07,missing_calendar_day
+Compound,2019-08-08,missing_calendar_day
+Compound,2019-08-09,missing_calendar_day
+Compound,2019-08-10,missing_calendar_day
+Compound,2019-08-11,missing_calendar_day
+Compound,2019-08-12,missing_calendar_day
+Compound,2019-08-13,missing_calendar_day
+Compound,2019-08-14,missing_calendar_day
+Compound,2019-08-15,missing_calendar_day
+Compound,2019-08-16,missing_calendar_day
+Compound,2019-08-17,missing_calendar_day
+Compound,2019-08-18,missing_calendar_day
+Compound,2019-08-19,missing_calendar_day
+Compound,2019-08-20,missing_calendar_day
+Compound,2019-08-21,missing_calendar_day
+Compound,2019-08-22,missing_calendar_day
+Compound,2019-08-23,missing_calendar_day
+Compound,2019-08-24,missing_calendar_day
+Compound,2019-08-25,missing_calendar_day
+Compound,2019-08-26,missing_calendar_day
+Compound,2019-08-27,missing_calendar_day
+Compound,2019-08-28,missing_calendar_day
+Compound,2019-08-29,missing_calendar_day
+Compound,2019-08-30,missing_calendar_day
+Compound,2019-08-31,missing_calendar_day
+Compound,2019-09-01,missing_calendar_day
+Compound,2019-09-02,missing_calendar_day
+Compound,2019-09-03,missing_calendar_day
+Compound,2019-09-04,missing_calendar_day
+Compound,2019-09-05,missing_calendar_day
+Compound,2019-09-06,missing_calendar_day
+Compound,2019-09-07,missing_calendar_day
+Compound,2019-09-08,missing_calendar_day
+Compound,2019-09-09,missing_calendar_day
+Compound,2019-09-10,missing_calendar_day
+Compound,2019-09-11,missing_calendar_day
+Compound,2019-09-12,missing_calendar_day
+Compound,2019-09-13,missing_calendar_day
+Compound,2019-09-14,missing_calendar_day
+Compound,2019-09-15,missing_calendar_day
+Compound,2019-09-16,missing_calendar_day
+Compound,2019-09-17,missing_calendar_day
+Compound,2019-09-18,missing_calendar_day
+Compound,2019-09-19,missing_calendar_day
+Compound,2019-09-20,missing_calendar_day
+Compound,2019-09-21,missing_calendar_day
+Compound,2019-09-22,missing_calendar_day
+Compound,2019-09-23,missing_calendar_day
+Compound,2019-09-24,missing_calendar_day
+Compound,2019-09-25,missing_calendar_day
+Compound,2019-09-26,missing_calendar_day
+Compound,2019-09-27,missing_calendar_day
+Compound,2019-09-28,missing_calendar_day
+Compound,2019-09-29,missing_calendar_day
+Compound,2019-09-30,missing_calendar_day
+Compound,2019-10-01,missing_calendar_day
+Compound,2019-10-02,missing_calendar_day
+Compound,2019-10-03,missing_calendar_day
+Compound,2019-10-04,missing_calendar_day
+Compound,2019-10-05,missing_calendar_day
+Compound,2019-10-06,missing_calendar_day
+Compound,2019-10-07,missing_calendar_day
+Compound,2019-10-08,missing_calendar_day
+Compound,2019-10-09,missing_calendar_day
+Compound,2019-10-10,missing_calendar_day
+Compound,2019-10-11,missing_calendar_day
+Compound,2019-10-12,missing_calendar_day
+Compound,2019-10-13,missing_calendar_day
+Compound,2019-10-14,missing_calendar_day
+Compound,2019-10-15,missing_calendar_day
+Compound,2019-10-16,missing_calendar_day
+Compound,2019-10-17,missing_calendar_day
+Compound,2019-10-18,missing_calendar_day
+Compound,2019-10-19,missing_calendar_day
+Compound,2019-10-20,missing_calendar_day
+Compound,2019-10-21,missing_calendar_day
+Compound,2019-10-22,missing_calendar_day
+Compound,2019-10-23,missing_calendar_day
+Compound,2019-10-24,missing_calendar_day
+Compound,2019-10-25,missing_calendar_day
+Compound,2019-10-26,missing_calendar_day
+Compound,2019-10-27,missing_calendar_day
+Compound,2019-10-28,missing_calendar_day
+Compound,2019-10-29,missing_calendar_day
+Compound,2019-10-30,missing_calendar_day
+Compound,2019-10-31,missing_calendar_day
+Compound,2019-11-01,missing_calendar_day
+Compound,2019-11-02,missing_calendar_day
+Compound,2019-11-03,missing_calendar_day
+Compound,2019-11-04,missing_calendar_day
+Compound,2019-11-05,missing_calendar_day
+Compound,2019-11-06,missing_calendar_day
+Compound,2019-11-07,missing_calendar_day
+Compound,2019-11-08,missing_calendar_day
+Compound,2019-11-09,missing_calendar_day
+Compound,2019-11-10,missing_calendar_day
+Compound,2019-11-11,missing_calendar_day
+Compound,2019-11-12,missing_calendar_day
+Compound,2019-11-13,missing_calendar_day
+Compound,2019-11-14,missing_calendar_day
+Compound,2019-11-15,missing_calendar_day
+Compound,2019-11-16,missing_calendar_day
+Compound,2019-11-17,missing_calendar_day
+Compound,2019-11-18,missing_calendar_day
+Compound,2019-11-19,missing_calendar_day
+Compound,2019-11-20,missing_calendar_day
+Compound,2019-11-21,missing_calendar_day
+Compound,2019-11-22,missing_calendar_day
+Compound,2019-11-23,missing_calendar_day
+Compound,2019-11-24,missing_calendar_day
+Compound,2019-11-25,missing_calendar_day
+Compound,2019-11-26,missing_calendar_day
+Compound,2019-11-27,missing_calendar_day
+Compound,2019-11-28,missing_calendar_day
+Compound,2019-11-29,missing_calendar_day
+Compound,2019-11-30,missing_calendar_day
+Compound,2019-12-01,missing_calendar_day
+Compound,2019-12-02,missing_calendar_day
+Compound,2019-12-03,missing_calendar_day
+Compound,2019-12-04,missing_calendar_day
+Compound,2019-12-05,missing_calendar_day
+Compound,2019-12-06,missing_calendar_day
+Compound,2019-12-07,missing_calendar_day
+Compound,2019-12-08,missing_calendar_day
+Compound,2019-12-09,missing_calendar_day
+Compound,2019-12-10,missing_calendar_day
+Compound,2019-12-11,missing_calendar_day
+Compound,2019-12-12,missing_calendar_day
+Compound,2019-12-13,missing_calendar_day
+Compound,2019-12-14,missing_calendar_day
+Compound,2019-12-15,missing_calendar_day
+Compound,2019-12-16,missing_calendar_day
+Compound,2019-12-17,missing_calendar_day
+Compound,2019-12-18,missing_calendar_day
+Compound,2019-12-19,missing_calendar_day
+Compound,2019-12-20,missing_calendar_day
+Compound,2019-12-21,missing_calendar_day
+Compound,2019-12-22,missing_calendar_day
+Compound,2019-12-23,missing_calendar_day
+Compound,2019-12-24,missing_calendar_day
+Compound,2019-12-25,missing_calendar_day
+Compound,2019-12-26,missing_calendar_day
+Compound,2019-12-27,missing_calendar_day
+Compound,2019-12-28,missing_calendar_day
+Compound,2019-12-29,missing_calendar_day
+Compound,2019-12-30,missing_calendar_day
+Compound,2019-12-31,missing_calendar_day
+Compound,2020-01-01,missing_calendar_day
+Compound,2020-01-02,missing_calendar_day
+Compound,2020-01-03,missing_calendar_day
+Compound,2020-01-04,missing_calendar_day
+Compound,2020-01-05,missing_calendar_day
+Compound,2020-01-06,missing_calendar_day
+Compound,2020-01-07,missing_calendar_day
+Compound,2020-01-08,missing_calendar_day
+Compound,2020-01-09,missing_calendar_day
+Compound,2020-01-10,missing_calendar_day
+Compound,2020-01-11,missing_calendar_day
+Compound,2020-01-12,missing_calendar_day
+Compound,2020-01-13,missing_calendar_day
+Compound,2020-01-14,missing_calendar_day
+Compound,2020-01-15,missing_calendar_day
+Compound,2020-01-16,missing_calendar_day
+Compound,2020-01-17,missing_calendar_day
+Compound,2020-01-18,missing_calendar_day
+Compound,2020-01-19,missing_calendar_day
+Compound,2020-01-20,missing_calendar_day
+Compound,2020-01-21,missing_calendar_day
+Compound,2020-01-22,missing_calendar_day
+Compound,2020-01-23,missing_calendar_day
+Compound,2020-01-24,missing_calendar_day
+Compound,2020-01-25,missing_calendar_day
+Compound,2020-01-26,missing_calendar_day
+Compound,2020-01-27,missing_calendar_day
+Compound,2020-01-28,missing_calendar_day
+Compound,2020-01-29,missing_calendar_day
+Compound,2020-01-30,missing_calendar_day
+Compound,2020-01-31,missing_calendar_day
+Compound,2020-02-01,missing_calendar_day
+Compound,2020-02-02,missing_calendar_day
+Compound,2020-02-03,missing_calendar_day
+Compound,2020-02-04,missing_calendar_day
+Compound,2020-02-05,missing_calendar_day
+Compound,2020-02-06,missing_calendar_day
+Compound,2020-02-07,missing_calendar_day
+Compound,2020-02-08,missing_calendar_day
+Compound,2020-02-09,missing_calendar_day
+Compound,2020-02-10,missing_calendar_day
+Compound,2020-02-11,missing_calendar_day
+Compound,2020-02-12,missing_calendar_day
+Compound,2020-02-13,missing_calendar_day
+Compound,2020-02-14,missing_calendar_day
+Compound,2020-02-15,missing_calendar_day
+Compound,2020-02-16,missing_calendar_day
+Compound,2020-02-17,missing_calendar_day
+Compound,2020-02-18,missing_calendar_day
+Compound,2020-02-19,missing_calendar_day
+Compound,2020-02-20,missing_calendar_day
+Compound,2020-02-21,missing_calendar_day
+Compound,2020-02-22,missing_calendar_day
+Compound,2020-02-23,missing_calendar_day
+Compound,2020-02-24,missing_calendar_day
+Compound,2020-02-25,missing_calendar_day
+Compound,2020-02-26,missing_calendar_day
+Compound,2020-02-27,missing_calendar_day
+Compound,2020-02-28,missing_calendar_day
+Compound,2020-02-29,missing_calendar_day
+Compound,2020-03-01,missing_calendar_day
+Compound,2020-03-02,missing_calendar_day
+Compound,2020-03-03,missing_calendar_day
+Compound,2020-03-04,missing_calendar_day
+Compound,2020-03-05,missing_calendar_day
+Compound,2020-03-06,missing_calendar_day
+Compound,2020-03-07,missing_calendar_day
+Compound,2020-03-08,missing_calendar_day
+Compound,2020-03-09,missing_calendar_day
+Compound,2020-03-10,missing_calendar_day
+Compound,2020-03-11,missing_calendar_day
+Compound,2020-03-12,missing_calendar_day
+Compound,2020-03-13,missing_calendar_day
+Compound,2020-03-14,missing_calendar_day
+Compound,2020-03-15,missing_calendar_day
+Compound,2020-03-16,missing_calendar_day
+Compound,2020-03-17,missing_calendar_day
+Compound,2020-03-18,missing_calendar_day
+Compound,2020-03-19,missing_calendar_day
+Compound,2020-03-20,missing_calendar_day
+Compound,2020-03-21,missing_calendar_day
+Compound,2020-03-22,missing_calendar_day
+Compound,2020-03-23,missing_calendar_day
+Compound,2020-03-24,missing_calendar_day
+Compound,2020-03-25,missing_calendar_day
+Compound,2020-03-26,missing_calendar_day
+Compound,2020-03-27,missing_calendar_day
+Compound,2020-03-28,missing_calendar_day
+Compound,2020-03-29,missing_calendar_day
+Compound,2020-03-30,missing_calendar_day
+Compound,2020-03-31,missing_calendar_day
+Compound,2020-04-01,missing_calendar_day
+Compound,2020-04-02,missing_calendar_day
+Compound,2020-04-03,missing_calendar_day
+Compound,2020-04-04,missing_calendar_day
+Compound,2020-04-05,missing_calendar_day
+Compound,2020-04-06,missing_calendar_day
+Compound,2020-04-07,missing_calendar_day
+Compound,2020-04-08,missing_calendar_day
+Compound,2020-04-09,missing_calendar_day
+Compound,2020-04-10,missing_calendar_day
+Compound,2020-04-11,missing_calendar_day
+Compound,2020-04-12,missing_calendar_day
+Compound,2020-04-13,missing_calendar_day
+Compound,2020-04-14,missing_calendar_day
+Compound,2020-04-15,missing_calendar_day
+Compound,2020-04-16,missing_calendar_day
+Compound,2020-04-17,missing_calendar_day
+Compound,2020-04-18,missing_calendar_day
+Compound,2020-04-19,missing_calendar_day
+Compound,2020-04-20,missing_calendar_day
+Compound,2020-04-21,missing_calendar_day
+Compound,2020-04-22,missing_calendar_day
+Compound,2020-04-23,missing_calendar_day
+Compound,2020-04-24,missing_calendar_day
+Compound,2020-04-25,missing_calendar_day
+Compound,2020-04-26,missing_calendar_day
+Compound,2020-04-27,missing_calendar_day
+Compound,2020-04-28,missing_calendar_day
+Compound,2020-04-29,missing_calendar_day
+Compound,2020-04-30,missing_calendar_day
+Compound,2020-05-01,missing_calendar_day
+Compound,2020-05-02,missing_calendar_day
+Compound,2020-05-03,missing_calendar_day
+Compound,2020-05-04,missing_calendar_day
+Compound,2020-05-05,missing_calendar_day
+Compound,2020-05-06,missing_calendar_day
+Compound,2020-05-07,missing_calendar_day
+Compound,2020-05-08,missing_calendar_day
+Compound,2020-05-09,missing_calendar_day
+Compound,2020-05-10,missing_calendar_day
+Compound,2020-05-11,missing_calendar_day
+Compound,2020-05-12,missing_calendar_day
+Compound,2020-05-13,missing_calendar_day
+Compound,2020-05-14,missing_calendar_day
+Compound,2020-05-15,missing_calendar_day
+Compound,2020-05-16,missing_calendar_day
+Compound,2020-05-17,missing_calendar_day
+Compound,2020-05-18,missing_calendar_day
+Compound,2020-05-19,missing_calendar_day
+Compound,2020-05-20,missing_calendar_day
+Compound,2020-05-21,missing_calendar_day
+Compound,2020-05-22,missing_calendar_day
+Compound,2020-05-23,missing_calendar_day
+Compound,2020-05-24,missing_calendar_day
+Compound,2020-05-25,missing_calendar_day
+Compound,2020-05-26,missing_calendar_day
+Compound,2020-05-27,missing_calendar_day
+Compound,2020-05-28,missing_calendar_day
+Compound,2020-05-29,missing_calendar_day
+Compound,2020-05-30,missing_calendar_day
+Compound,2020-05-31,missing_calendar_day
+Compound,2020-06-01,missing_calendar_day
+Compound,2020-06-02,missing_calendar_day
+Compound,2020-06-03,missing_calendar_day
+Compound,2020-06-04,missing_calendar_day
+Compound,2020-06-05,missing_calendar_day
+Compound,2020-06-06,missing_calendar_day
+Compound,2020-06-07,missing_calendar_day
+Compound,2020-06-08,missing_calendar_day
+Compound,2020-06-09,missing_calendar_day
+Compound,2020-06-10,missing_calendar_day
+Compound,2020-06-11,missing_calendar_day
+Compound,2020-06-12,missing_calendar_day
+Compound,2020-06-13,missing_calendar_day
+Compound,2020-06-14,missing_calendar_day
+Compound,2020-06-15,missing_calendar_day
+Compound,2020-06-16,missing_calendar_day
+Compound,2020-06-17,missing_calendar_day
+Compound,2020-06-18,missing_calendar_day
+Convex Finance,2022-08-22,missing_calendar_day
+Cronos,2022-08-22,missing_calendar_day
+Curve DAO Token,2022-08-22,missing_calendar_day
+dai,2018-11-10,missing_calendar_day
+dai,2018-11-11,missing_calendar_day
+dai,2019-01-30,missing_calendar_day
+Dash,2022-08-22,missing_calendar_day
+Decentraland,2022-08-22,missing_calendar_day
+Decred,2022-08-22,missing_calendar_day
+eCash,2022-08-22,missing_calendar_day
+Elrond,2022-08-22,missing_calendar_day
+Enjin Coin,2022-08-22,missing_calendar_day
+EOS,2022-08-22,missing_calendar_day
+ethereum classic,2018-12-03,invalid_low
+ethereum classic,2017-01-15,inconsistent_ohlc
+ethereum classic,2017-01-28,inconsistent_ohlc
+Fantom,2022-08-22,missing_calendar_day
+Fei USD,2021-04-03,invalid_open
+Fei USD,2021-04-03,invalid_low
+Fei USD,2022-08-22,missing_calendar_day
+Filecoin,2022-08-22,missing_calendar_day
+Flow,2022-08-22,missing_calendar_day
+Gala,2020-09-22,missing_calendar_day
+Gala,2020-09-23,missing_calendar_day
+Gala,2020-09-24,missing_calendar_day
+Gala,2020-09-25,missing_calendar_day
+Gala,2020-09-26,missing_calendar_day
+Gala,2020-09-27,missing_calendar_day
+Gala,2020-09-28,missing_calendar_day
+Gala,2020-09-29,missing_calendar_day
+Gala,2020-09-30,missing_calendar_day
+Gala,2020-10-01,missing_calendar_day
+Gala,2020-10-05,missing_calendar_day
+Gala,2020-10-06,missing_calendar_day
+Gala,2020-10-07,missing_calendar_day
+Gala,2020-10-08,missing_calendar_day
+Gala,2020-10-10,missing_calendar_day
+Gala,2020-10-11,missing_calendar_day
+Gala,2020-10-14,missing_calendar_day
+Gala,2020-10-15,missing_calendar_day
+Gala,2020-10-16,missing_calendar_day
+Gala,2020-10-17,missing_calendar_day
+Gala,2020-10-18,missing_calendar_day
+Gala,2020-10-19,missing_calendar_day
+Gala,2020-10-20,missing_calendar_day
+Gala,2020-10-21,missing_calendar_day
+Gala,2020-10-22,missing_calendar_day
+Gala,2020-10-23,missing_calendar_day
+Gala,2020-10-24,missing_calendar_day
+Gala,2020-10-25,missing_calendar_day
+Gala,2020-10-26,missing_calendar_day
+Gala,2020-10-27,missing_calendar_day
+Gala,2022-08-22,missing_calendar_day
+Gnosis,2022-08-22,missing_calendar_day
+Hedera,2022-08-22,missing_calendar_day
+Helium,2022-08-22,missing_calendar_day
+Holo,2022-08-22,missing_calendar_day
+Huobi Token,2022-08-22,missing_calendar_day
+Internet Computer,2021-05-10,invalid_open
+Internet Computer,2021-05-10,invalid_low
+Internet Computer,2022-08-22,missing_calendar_day
+IOTA,2022-08-22,missing_calendar_day
+Kava,2022-08-22,missing_calendar_day
+Klaytn,2022-08-22,missing_calendar_day
+KuCoin Token,2022-08-22,missing_calendar_day
+Kusama,2022-08-22,missing_calendar_day
+Lido DAO,2022-08-22,missing_calendar_day
+Loopring,2022-08-22,missing_calendar_day
+Maker,2022-08-22,missing_calendar_day
+Mina,2022-08-22,missing_calendar_day
+NEM,2022-08-22,missing_calendar_day
+Neo,2022-08-22,missing_calendar_day
+Neutrino USD,2022-08-22,missing_calendar_day
+Nexo,2018-05-06,missing_calendar_day
+Nexo,2022-08-22,missing_calendar_day
+OKB,2022-08-22,missing_calendar_day
+PancakeSwap,2022-08-22,missing_calendar_day
+Pax Dollar,2022-08-22,missing_calendar_day
+PAX Gold,2022-08-22,missing_calendar_day
+Qtum,2022-08-22,missing_calendar_day
+Quant,2022-08-22,missing_calendar_day
+Shiba Inu,2020-08-01,invalid_open
+Shiba Inu,2020-08-02,invalid_open
+Shiba Inu,2020-08-03,invalid_open
+Shiba Inu,2020-08-04,invalid_open
+Shiba Inu,2020-08-05,invalid_open
+Shiba Inu,2020-08-06,invalid_open
+Shiba Inu,2020-08-07,invalid_open
+Shiba Inu,2020-08-08,invalid_open
+Shiba Inu,2020-08-09,invalid_open
+Shiba Inu,2020-08-10,invalid_open
+Shiba Inu,2020-08-11,invalid_open
+Shiba Inu,2020-08-12,invalid_open
+Shiba Inu,2020-08-13,invalid_open
+Shiba Inu,2020-08-14,invalid_open
+Shiba Inu,2020-08-15,invalid_open
+Shiba Inu,2020-08-16,invalid_open
+Shiba Inu,2020-08-17,invalid_open
+Shiba Inu,2020-08-18,invalid_open
+Shiba Inu,2020-08-19,invalid_open
+Shiba Inu,2020-08-20,invalid_open
+Shiba Inu,2020-08-21,invalid_open
+Shiba Inu,2020-08-22,invalid_open
+Shiba Inu,2020-08-23,invalid_open
+Shiba Inu,2020-08-24,invalid_open
+Shiba Inu,2020-08-25,invalid_open
+Shiba Inu,2020-08-26,invalid_open
+Shiba Inu,2020-08-27,invalid_open
+Shiba Inu,2020-08-28,invalid_open
+Shiba Inu,2020-08-29,invalid_open
+Shiba Inu,2020-08-30,invalid_open
+Shiba Inu,2020-08-31,invalid_open
+Shiba Inu,2020-09-01,invalid_open
+Shiba Inu,2020-09-02,invalid_open
+Shiba Inu,2020-09-03,invalid_open
+Shiba Inu,2020-09-04,invalid_open
+Shiba Inu,2020-09-05,invalid_open
+Shiba Inu,2020-09-06,invalid_open
+Shiba Inu,2020-09-07,invalid_open
+Shiba Inu,2020-09-08,invalid_open
+Shiba Inu,2020-09-09,invalid_open
+Shiba Inu,2020-09-10,invalid_open
+Shiba Inu,2020-09-11,invalid_open
+Shiba Inu,2020-09-12,invalid_open
+Shiba Inu,2020-09-13,invalid_open
+Shiba Inu,2020-09-14,invalid_open
+Shiba Inu,2020-09-15,invalid_open
+Shiba Inu,2020-09-16,invalid_open
+Shiba Inu,2020-09-17,invalid_open
+Shiba Inu,2020-09-18,invalid_open
+Shiba Inu,2020-09-19,invalid_open
+Shiba Inu,2020-09-20,invalid_open
+Shiba Inu,2020-09-21,invalid_open
+Shiba Inu,2020-09-22,invalid_open
+Shiba Inu,2020-09-23,invalid_open
+Shiba Inu,2020-09-24,invalid_open
+Shiba Inu,2020-09-25,invalid_open
+Shiba Inu,2020-09-26,invalid_open
+Shiba Inu,2020-09-27,invalid_open
+Shiba Inu,2020-09-28,invalid_open
+Shiba Inu,2020-09-29,invalid_open
+Shiba Inu,2020-09-30,invalid_open
+Shiba Inu,2020-10-01,invalid_open
+Shiba Inu,2020-10-02,invalid_open
+Shiba Inu,2020-10-03,invalid_open
+Shiba Inu,2020-10-04,invalid_open
+Shiba Inu,2020-10-05,invalid_open
+Shiba Inu,2020-10-06,invalid_open
+Shiba Inu,2020-10-07,invalid_open
+Shiba Inu,2020-10-08,invalid_open
+Shiba Inu,2020-10-09,invalid_open
+Shiba Inu,2020-10-10,invalid_open
+Shiba Inu,2020-10-11,invalid_open
+Shiba Inu,2020-10-12,invalid_open
+Shiba Inu,2020-10-13,invalid_open
+Shiba Inu,2020-10-14,invalid_open
+Shiba Inu,2020-10-15,invalid_open
+Shiba Inu,2020-10-16,invalid_open
+Shiba Inu,2020-10-17,invalid_open
+Shiba Inu,2020-10-18,invalid_open
+Shiba Inu,2020-10-19,invalid_open
+Shiba Inu,2020-10-20,invalid_open
+Shiba Inu,2020-10-21,invalid_open
+Shiba Inu,2020-10-22,invalid_open
+Shiba Inu,2020-10-23,invalid_open
+Shiba Inu,2020-10-24,invalid_open
+Shiba Inu,2020-10-25,invalid_open
+Shiba Inu,2020-10-26,invalid_open
+Shiba Inu,2020-10-27,invalid_open
+Shiba Inu,2020-10-28,invalid_open
+Shiba Inu,2020-10-29,invalid_open
+Shiba Inu,2020-10-30,invalid_open
+Shiba Inu,2020-10-31,invalid_open
+Shiba Inu,2020-11-01,invalid_open
+Shiba Inu,2020-11-02,invalid_open
+Shiba Inu,2020-11-03,invalid_open
+Shiba Inu,2020-11-04,invalid_open
+Shiba Inu,2020-11-05,invalid_open
+Shiba Inu,2020-11-06,invalid_open
+Shiba Inu,2020-11-07,invalid_open
+Shiba Inu,2020-11-08,invalid_open
+Shiba Inu,2020-11-09,invalid_open
+Shiba Inu,2020-11-10,invalid_open
+Shiba Inu,2020-11-11,invalid_open
+Shiba Inu,2020-11-12,invalid_open
+Shiba Inu,2020-11-13,invalid_open
+Shiba Inu,2020-11-14,invalid_open
+Shiba Inu,2020-11-15,invalid_open
+Shiba Inu,2020-11-16,invalid_open
+Shiba Inu,2020-11-17,invalid_open
+Shiba Inu,2020-11-18,invalid_open
+Shiba Inu,2020-11-19,invalid_open
+Shiba Inu,2020-11-20,invalid_open
+Shiba Inu,2020-11-21,invalid_open
+Shiba Inu,2020-11-22,invalid_open
+Shiba Inu,2020-11-23,invalid_open
+Shiba Inu,2020-11-24,invalid_open
+Shiba Inu,2020-11-25,invalid_open
+Shiba Inu,2020-11-26,invalid_open
+Shiba Inu,2020-11-27,invalid_open
+Shiba Inu,2020-11-28,invalid_open
+Shiba Inu,2020-11-29,invalid_open
+Shiba Inu,2020-11-30,invalid_open
+Shiba Inu,2020-12-01,invalid_open
+Shiba Inu,2020-12-02,invalid_open
+Shiba Inu,2020-12-03,invalid_open
+Shiba Inu,2020-12-04,invalid_open
+Shiba Inu,2020-12-05,invalid_open
+Shiba Inu,2020-12-06,invalid_open
+Shiba Inu,2020-12-07,invalid_open
+Shiba Inu,2020-12-08,invalid_open
+Shiba Inu,2020-12-09,invalid_open
+Shiba Inu,2020-12-10,invalid_open
+Shiba Inu,2020-12-11,invalid_open
+Shiba Inu,2020-12-12,invalid_open
+Shiba Inu,2020-12-13,invalid_open
+Shiba Inu,2020-12-14,invalid_open
+Shiba Inu,2020-12-15,invalid_open
+Shiba Inu,2020-12-16,invalid_open
+Shiba Inu,2020-12-17,invalid_open
+Shiba Inu,2020-12-18,invalid_open
+Shiba Inu,2020-12-19,invalid_open
+Shiba Inu,2020-12-20,invalid_open
+Shiba Inu,2020-12-21,invalid_open
+Shiba Inu,2020-12-22,invalid_open
+Shiba Inu,2020-12-23,invalid_open
+Shiba Inu,2020-12-24,invalid_open
+Shiba Inu,2020-12-25,invalid_open
+Shiba Inu,2020-12-26,invalid_open
+Shiba Inu,2020-12-27,invalid_open
+Shiba Inu,2020-12-28,invalid_open
+Shiba Inu,2020-12-29,invalid_open
+Shiba Inu,2020-12-30,invalid_open
+Shiba Inu,2020-12-31,invalid_open
+Shiba Inu,2021-01-01,invalid_open
+Shiba Inu,2021-01-02,invalid_open
+Shiba Inu,2021-01-03,invalid_open
+Shiba Inu,2021-01-04,invalid_open
+Shiba Inu,2021-01-05,invalid_open
+Shiba Inu,2021-01-06,invalid_open
+Shiba Inu,2021-01-07,invalid_open
+Shiba Inu,2021-01-08,invalid_open
+Shiba Inu,2021-01-09,invalid_open
+Shiba Inu,2021-01-10,invalid_open
+Shiba Inu,2021-01-11,invalid_open
+Shiba Inu,2021-01-12,invalid_open
+Shiba Inu,2021-01-13,invalid_open
+Shiba Inu,2021-01-14,invalid_open
+Shiba Inu,2021-01-15,invalid_open
+Shiba Inu,2021-01-16,invalid_open
+Shiba Inu,2021-01-17,invalid_open
+Shiba Inu,2021-01-18,invalid_open
+Shiba Inu,2021-01-19,invalid_open
+Shiba Inu,2021-01-20,invalid_open
+Shiba Inu,2021-01-21,invalid_open
+Shiba Inu,2021-01-22,invalid_open
+Shiba Inu,2021-01-23,invalid_open
+Shiba Inu,2021-01-24,invalid_open
+Shiba Inu,2021-01-25,invalid_open
+Shiba Inu,2021-01-26,invalid_open
+Shiba Inu,2021-01-27,invalid_open
+Shiba Inu,2021-01-28,invalid_open
+Shiba Inu,2021-01-29,invalid_open
+Shiba Inu,2021-01-30,invalid_open
+Shiba Inu,2021-01-31,invalid_open
+Shiba Inu,2021-02-01,invalid_open
+Shiba Inu,2021-02-02,invalid_open
+Shiba Inu,2021-02-03,invalid_open
+Shiba Inu,2021-02-04,invalid_open
+Shiba Inu,2021-02-05,invalid_open
+Shiba Inu,2021-02-06,invalid_open
+Shiba Inu,2021-02-07,invalid_open
+Shiba Inu,2021-02-08,invalid_open
+Shiba Inu,2021-02-09,invalid_open
+Shiba Inu,2021-02-10,invalid_open
+Shiba Inu,2021-02-11,invalid_open
+Shiba Inu,2021-02-12,invalid_open
+Shiba Inu,2021-02-13,invalid_open
+Shiba Inu,2021-02-14,invalid_open
+Shiba Inu,2021-02-15,invalid_open
+Shiba Inu,2021-02-16,invalid_open
+Shiba Inu,2021-02-17,invalid_open
+Shiba Inu,2021-02-18,invalid_open
+Shiba Inu,2021-02-19,invalid_open
+Shiba Inu,2021-02-20,invalid_open
+Shiba Inu,2021-02-21,invalid_open
+Shiba Inu,2021-02-22,invalid_open
+Shiba Inu,2021-02-23,invalid_open
+Shiba Inu,2021-02-24,invalid_open
+Shiba Inu,2021-02-25,invalid_open
+Shiba Inu,2021-02-26,invalid_open
+Shiba Inu,2021-02-27,invalid_open
+Shiba Inu,2021-02-28,invalid_open
+Shiba Inu,2021-03-01,invalid_open
+Shiba Inu,2021-03-02,invalid_open
+Shiba Inu,2021-03-03,invalid_open
+Shiba Inu,2021-03-04,invalid_open
+Shiba Inu,2021-03-05,invalid_open
+Shiba Inu,2021-03-06,invalid_open
+Shiba Inu,2021-03-07,invalid_open
+Shiba Inu,2021-03-08,invalid_open
+Shiba Inu,2021-03-09,invalid_open
+Shiba Inu,2021-03-10,invalid_open
+Shiba Inu,2021-03-11,invalid_open
+Shiba Inu,2021-03-12,invalid_open
+Shiba Inu,2021-03-13,invalid_open
+Shiba Inu,2021-03-14,invalid_open
+Shiba Inu,2021-03-15,invalid_open
+Shiba Inu,2021-03-16,invalid_open
+Shiba Inu,2021-03-17,invalid_open
+Shiba Inu,2021-03-18,invalid_open
+Shiba Inu,2021-03-19,invalid_open
+Shiba Inu,2021-03-20,invalid_open
+Shiba Inu,2021-03-21,invalid_open
+Shiba Inu,2021-03-22,invalid_open
+Shiba Inu,2021-03-23,invalid_open
+Shiba Inu,2021-03-24,invalid_open
+Shiba Inu,2021-03-25,invalid_open
+Shiba Inu,2021-03-26,invalid_open
+Shiba Inu,2021-03-27,invalid_open
+Shiba Inu,2021-03-28,invalid_open
+Shiba Inu,2021-03-29,invalid_open
+Shiba Inu,2021-03-30,invalid_open
+Shiba Inu,2021-03-31,invalid_open
+Shiba Inu,2021-04-01,invalid_open
+Shiba Inu,2021-04-02,invalid_open
+Shiba Inu,2021-04-03,invalid_open
+Shiba Inu,2021-04-04,invalid_open
+Shiba Inu,2021-04-05,invalid_open
+Shiba Inu,2021-04-06,invalid_open
+Shiba Inu,2021-04-07,invalid_open
+Shiba Inu,2021-04-08,invalid_open
+Shiba Inu,2021-04-09,invalid_open
+Shiba Inu,2021-04-10,invalid_open
+Shiba Inu,2021-04-11,invalid_open
+Shiba Inu,2021-04-12,invalid_open
+Shiba Inu,2021-04-13,invalid_open
+Shiba Inu,2021-04-14,invalid_open
+Shiba Inu,2021-04-15,invalid_open
+Shiba Inu,2021-04-16,invalid_open
+Shiba Inu,2020-08-01,invalid_high
+Shiba Inu,2020-08-02,invalid_high
+Shiba Inu,2020-08-03,invalid_high
+Shiba Inu,2020-08-04,invalid_high
+Shiba Inu,2020-08-05,invalid_high
+Shiba Inu,2020-08-06,invalid_high
+Shiba Inu,2020-08-07,invalid_high
+Shiba Inu,2020-08-08,invalid_high
+Shiba Inu,2020-08-09,invalid_high
+Shiba Inu,2020-08-10,invalid_high
+Shiba Inu,2020-08-11,invalid_high
+Shiba Inu,2020-08-12,invalid_high
+Shiba Inu,2020-08-13,invalid_high
+Shiba Inu,2020-08-14,invalid_high
+Shiba Inu,2020-08-15,invalid_high
+Shiba Inu,2020-08-16,invalid_high
+Shiba Inu,2020-08-17,invalid_high
+Shiba Inu,2020-08-18,invalid_high
+Shiba Inu,2020-08-19,invalid_high
+Shiba Inu,2020-08-20,invalid_high
+Shiba Inu,2020-08-21,invalid_high
+Shiba Inu,2020-08-22,invalid_high
+Shiba Inu,2020-08-23,invalid_high
+Shiba Inu,2020-08-24,invalid_high
+Shiba Inu,2020-08-25,invalid_high
+Shiba Inu,2020-08-26,invalid_high
+Shiba Inu,2020-08-27,invalid_high
+Shiba Inu,2020-08-28,invalid_high
+Shiba Inu,2020-08-29,invalid_high
+Shiba Inu,2020-08-30,invalid_high
+Shiba Inu,2020-08-31,invalid_high
+Shiba Inu,2020-09-01,invalid_high
+Shiba Inu,2020-09-02,invalid_high
+Shiba Inu,2020-09-03,invalid_high
+Shiba Inu,2020-09-04,invalid_high
+Shiba Inu,2020-09-05,invalid_high
+Shiba Inu,2020-09-06,invalid_high
+Shiba Inu,2020-09-07,invalid_high
+Shiba Inu,2020-09-08,invalid_high
+Shiba Inu,2020-09-09,invalid_high
+Shiba Inu,2020-09-10,invalid_high
+Shiba Inu,2020-09-11,invalid_high
+Shiba Inu,2020-09-12,invalid_high
+Shiba Inu,2020-09-13,invalid_high
+Shiba Inu,2020-09-14,invalid_high
+Shiba Inu,2020-09-15,invalid_high
+Shiba Inu,2020-09-16,invalid_high
+Shiba Inu,2020-09-17,invalid_high
+Shiba Inu,2020-09-18,invalid_high
+Shiba Inu,2020-09-19,invalid_high
+Shiba Inu,2020-09-20,invalid_high
+Shiba Inu,2020-09-21,invalid_high
+Shiba Inu,2020-09-22,invalid_high
+Shiba Inu,2020-09-23,invalid_high
+Shiba Inu,2020-09-24,invalid_high
+Shiba Inu,2020-09-25,invalid_high
+Shiba Inu,2020-09-26,invalid_high
+Shiba Inu,2020-09-27,invalid_high
+Shiba Inu,2020-09-28,invalid_high
+Shiba Inu,2020-09-29,invalid_high
+Shiba Inu,2020-09-30,invalid_high
+Shiba Inu,2020-10-01,invalid_high
+Shiba Inu,2020-10-02,invalid_high
+Shiba Inu,2020-10-03,invalid_high
+Shiba Inu,2020-10-04,invalid_high
+Shiba Inu,2020-10-05,invalid_high
+Shiba Inu,2020-10-06,invalid_high
+Shiba Inu,2020-10-07,invalid_high
+Shiba Inu,2020-10-08,invalid_high
+Shiba Inu,2020-10-09,invalid_high
+Shiba Inu,2020-10-10,invalid_high
+Shiba Inu,2020-10-11,invalid_high
+Shiba Inu,2020-10-12,invalid_high
+Shiba Inu,2020-10-13,invalid_high
+Shiba Inu,2020-10-14,invalid_high
+Shiba Inu,2020-10-15,invalid_high
+Shiba Inu,2020-10-16,invalid_high
+Shiba Inu,2020-10-17,invalid_high
+Shiba Inu,2020-10-18,invalid_high
+Shiba Inu,2020-10-19,invalid_high
+Shiba Inu,2020-10-20,invalid_high
+Shiba Inu,2020-10-21,invalid_high
+Shiba Inu,2020-10-22,invalid_high
+Shiba Inu,2020-10-23,invalid_high
+Shiba Inu,2020-10-24,invalid_high
+Shiba Inu,2020-10-25,invalid_high
+Shiba Inu,2020-10-26,invalid_high
+Shiba Inu,2020-10-27,invalid_high
+Shiba Inu,2020-10-28,invalid_high
+Shiba Inu,2020-10-29,invalid_high
+Shiba Inu,2020-10-30,invalid_high
+Shiba Inu,2020-10-31,invalid_high
+Shiba Inu,2020-11-01,invalid_high
+Shiba Inu,2020-11-02,invalid_high
+Shiba Inu,2020-11-03,invalid_high
+Shiba Inu,2020-11-04,invalid_high
+Shiba Inu,2020-11-05,invalid_high
+Shiba Inu,2020-11-06,invalid_high
+Shiba Inu,2020-11-07,invalid_high
+Shiba Inu,2020-11-08,invalid_high
+Shiba Inu,2020-11-09,invalid_high
+Shiba Inu,2020-11-10,invalid_high
+Shiba Inu,2020-11-11,invalid_high
+Shiba Inu,2020-11-12,invalid_high
+Shiba Inu,2020-11-13,invalid_high
+Shiba Inu,2020-11-14,invalid_high
+Shiba Inu,2020-11-15,invalid_high
+Shiba Inu,2020-11-16,invalid_high
+Shiba Inu,2020-11-17,invalid_high
+Shiba Inu,2020-11-18,invalid_high
+Shiba Inu,2020-11-19,invalid_high
+Shiba Inu,2020-11-20,invalid_high
+Shiba Inu,2020-11-21,invalid_high
+Shiba Inu,2020-11-22,invalid_high
+Shiba Inu,2020-11-23,invalid_high
+Shiba Inu,2020-11-24,invalid_high
+Shiba Inu,2020-11-25,invalid_high
+Shiba Inu,2020-11-26,invalid_high
+Shiba Inu,2020-11-27,invalid_high
+Shiba Inu,2020-11-28,invalid_high
+Shiba Inu,2020-11-29,invalid_high
+Shiba Inu,2020-11-30,invalid_high
+Shiba Inu,2020-12-01,invalid_high
+Shiba Inu,2020-12-02,invalid_high
+Shiba Inu,2020-12-03,invalid_high
+Shiba Inu,2020-12-04,invalid_high
+Shiba Inu,2020-12-05,invalid_high
+Shiba Inu,2020-12-06,invalid_high
+Shiba Inu,2020-12-07,invalid_high
+Shiba Inu,2020-12-08,invalid_high
+Shiba Inu,2020-12-09,invalid_high
+Shiba Inu,2020-12-10,invalid_high
+Shiba Inu,2020-12-11,invalid_high
+Shiba Inu,2020-12-12,invalid_high
+Shiba Inu,2020-12-13,invalid_high
+Shiba Inu,2020-12-14,invalid_high
+Shiba Inu,2020-12-15,invalid_high
+Shiba Inu,2020-12-16,invalid_high
+Shiba Inu,2020-12-17,invalid_high
+Shiba Inu,2020-12-18,invalid_high
+Shiba Inu,2020-12-19,invalid_high
+Shiba Inu,2020-12-20,invalid_high
+Shiba Inu,2020-12-21,invalid_high
+Shiba Inu,2020-12-22,invalid_high
+Shiba Inu,2020-12-23,invalid_high
+Shiba Inu,2020-12-24,invalid_high
+Shiba Inu,2020-12-25,invalid_high
+Shiba Inu,2020-12-26,invalid_high
+Shiba Inu,2020-12-27,invalid_high
+Shiba Inu,2020-12-28,invalid_high
+Shiba Inu,2020-12-29,invalid_high
+Shiba Inu,2020-12-30,invalid_high
+Shiba Inu,2020-12-31,invalid_high
+Shiba Inu,2021-01-01,invalid_high
+Shiba Inu,2021-01-02,invalid_high
+Shiba Inu,2021-01-03,invalid_high
+Shiba Inu,2021-01-04,invalid_high
+Shiba Inu,2021-01-05,invalid_high
+Shiba Inu,2021-01-06,invalid_high
+Shiba Inu,2021-01-07,invalid_high
+Shiba Inu,2021-01-08,invalid_high
+Shiba Inu,2021-01-09,invalid_high
+Shiba Inu,2021-01-10,invalid_high
+Shiba Inu,2021-01-11,invalid_high
+Shiba Inu,2021-01-12,invalid_high
+Shiba Inu,2021-01-13,invalid_high
+Shiba Inu,2021-01-14,invalid_high
+Shiba Inu,2021-01-15,invalid_high
+Shiba Inu,2021-01-16,invalid_high
+Shiba Inu,2021-01-17,invalid_high
+Shiba Inu,2021-01-18,invalid_high
+Shiba Inu,2021-01-19,invalid_high
+Shiba Inu,2021-01-20,invalid_high
+Shiba Inu,2021-01-21,invalid_high
+Shiba Inu,2021-01-22,invalid_high
+Shiba Inu,2021-01-23,invalid_high
+Shiba Inu,2021-01-24,invalid_high
+Shiba Inu,2021-01-25,invalid_high
+Shiba Inu,2021-01-26,invalid_high
+Shiba Inu,2021-01-27,invalid_high
+Shiba Inu,2021-01-28,invalid_high
+Shiba Inu,2021-01-29,invalid_high
+Shiba Inu,2021-01-30,invalid_high
+Shiba Inu,2021-01-31,invalid_high
+Shiba Inu,2021-02-01,invalid_high
+Shiba Inu,2021-02-02,invalid_high
+Shiba Inu,2021-02-03,invalid_high
+Shiba Inu,2021-02-04,invalid_high
+Shiba Inu,2021-02-05,invalid_high
+Shiba Inu,2021-02-06,invalid_high
+Shiba Inu,2021-02-07,invalid_high
+Shiba Inu,2021-02-08,invalid_high
+Shiba Inu,2021-02-09,invalid_high
+Shiba Inu,2021-02-10,invalid_high
+Shiba Inu,2021-02-11,invalid_high
+Shiba Inu,2021-02-12,invalid_high
+Shiba Inu,2021-02-13,invalid_high
+Shiba Inu,2021-02-14,invalid_high
+Shiba Inu,2021-02-15,invalid_high
+Shiba Inu,2021-02-16,invalid_high
+Shiba Inu,2021-02-17,invalid_high
+Shiba Inu,2021-02-18,invalid_high
+Shiba Inu,2021-02-19,invalid_high
+Shiba Inu,2021-02-20,invalid_high
+Shiba Inu,2021-02-21,invalid_high
+Shiba Inu,2021-02-22,invalid_high
+Shiba Inu,2021-02-23,invalid_high
+Shiba Inu,2021-02-24,invalid_high
+Shiba Inu,2021-02-25,invalid_high
+Shiba Inu,2021-02-26,invalid_high
+Shiba Inu,2021-02-27,invalid_high
+Shiba Inu,2021-02-28,invalid_high
+Shiba Inu,2021-03-01,invalid_high
+Shiba Inu,2021-03-02,invalid_high
+Shiba Inu,2021-03-03,invalid_high
+Shiba Inu,2021-03-04,invalid_high
+Shiba Inu,2021-03-05,invalid_high
+Shiba Inu,2021-03-06,invalid_high
+Shiba Inu,2021-03-07,invalid_high
+Shiba Inu,2021-03-08,invalid_high
+Shiba Inu,2021-03-09,invalid_high
+Shiba Inu,2021-03-10,invalid_high
+Shiba Inu,2021-03-11,invalid_high
+Shiba Inu,2021-03-12,invalid_high
+Shiba Inu,2021-03-13,invalid_high
+Shiba Inu,2021-03-14,invalid_high
+Shiba Inu,2021-03-15,invalid_high
+Shiba Inu,2021-03-16,invalid_high
+Shiba Inu,2021-03-17,invalid_high
+Shiba Inu,2021-03-18,invalid_high
+Shiba Inu,2021-03-19,invalid_high
+Shiba Inu,2021-03-20,invalid_high
+Shiba Inu,2021-03-21,invalid_high
+Shiba Inu,2021-03-22,invalid_high
+Shiba Inu,2021-03-23,invalid_high
+Shiba Inu,2021-03-24,invalid_high
+Shiba Inu,2021-03-25,invalid_high
+Shiba Inu,2021-03-26,invalid_high
+Shiba Inu,2021-03-27,invalid_high
+Shiba Inu,2021-03-28,invalid_high
+Shiba Inu,2021-03-29,invalid_high
+Shiba Inu,2021-03-30,invalid_high
+Shiba Inu,2021-03-31,invalid_high
+Shiba Inu,2021-04-01,invalid_high
+Shiba Inu,2021-04-02,invalid_high
+Shiba Inu,2021-04-03,invalid_high
+Shiba Inu,2021-04-04,invalid_high
+Shiba Inu,2021-04-05,invalid_high
+Shiba Inu,2021-04-06,invalid_high
+Shiba Inu,2021-04-07,invalid_high
+Shiba Inu,2021-04-08,invalid_high
+Shiba Inu,2021-04-09,invalid_high
+Shiba Inu,2021-04-10,invalid_high
+Shiba Inu,2021-04-11,invalid_high
+Shiba Inu,2021-04-12,invalid_high
+Shiba Inu,2021-04-13,invalid_high
+Shiba Inu,2021-04-14,invalid_high
+Shiba Inu,2021-04-15,invalid_high
+Shiba Inu,2020-08-01,invalid_low
+Shiba Inu,2020-08-02,invalid_low
+Shiba Inu,2020-08-03,invalid_low
+Shiba Inu,2020-08-04,invalid_low
+Shiba Inu,2020-08-05,invalid_low
+Shiba Inu,2020-08-06,invalid_low
+Shiba Inu,2020-08-07,invalid_low
+Shiba Inu,2020-08-08,invalid_low
+Shiba Inu,2020-08-09,invalid_low
+Shiba Inu,2020-08-10,invalid_low
+Shiba Inu,2020-08-11,invalid_low
+Shiba Inu,2020-08-12,invalid_low
+Shiba Inu,2020-08-13,invalid_low
+Shiba Inu,2020-08-14,invalid_low
+Shiba Inu,2020-08-15,invalid_low
+Shiba Inu,2020-08-16,invalid_low
+Shiba Inu,2020-08-17,invalid_low
+Shiba Inu,2020-08-18,invalid_low
+Shiba Inu,2020-08-19,invalid_low
+Shiba Inu,2020-08-20,invalid_low
+Shiba Inu,2020-08-21,invalid_low
+Shiba Inu,2020-08-22,invalid_low
+Shiba Inu,2020-08-23,invalid_low
+Shiba Inu,2020-08-24,invalid_low
+Shiba Inu,2020-08-25,invalid_low
+Shiba Inu,2020-08-26,invalid_low
+Shiba Inu,2020-08-27,invalid_low
+Shiba Inu,2020-08-28,invalid_low
+Shiba Inu,2020-08-29,invalid_low
+Shiba Inu,2020-08-30,invalid_low
+Shiba Inu,2020-08-31,invalid_low
+Shiba Inu,2020-09-01,invalid_low
+Shiba Inu,2020-09-02,invalid_low
+Shiba Inu,2020-09-03,invalid_low
+Shiba Inu,2020-09-04,invalid_low
+Shiba Inu,2020-09-05,invalid_low
+Shiba Inu,2020-09-06,invalid_low
+Shiba Inu,2020-09-07,invalid_low
+Shiba Inu,2020-09-08,invalid_low
+Shiba Inu,2020-09-09,invalid_low
+Shiba Inu,2020-09-10,invalid_low
+Shiba Inu,2020-09-11,invalid_low
+Shiba Inu,2020-09-12,invalid_low
+Shiba Inu,2020-09-13,invalid_low
+Shiba Inu,2020-09-14,invalid_low
+Shiba Inu,2020-09-15,invalid_low
+Shiba Inu,2020-09-16,invalid_low
+Shiba Inu,2020-09-17,invalid_low
+Shiba Inu,2020-09-18,invalid_low
+Shiba Inu,2020-09-19,invalid_low
+Shiba Inu,2020-09-20,invalid_low
+Shiba Inu,2020-09-21,invalid_low
+Shiba Inu,2020-09-22,invalid_low
+Shiba Inu,2020-09-23,invalid_low
+Shiba Inu,2020-09-24,invalid_low
+Shiba Inu,2020-09-25,invalid_low
+Shiba Inu,2020-09-26,invalid_low
+Shiba Inu,2020-09-27,invalid_low
+Shiba Inu,2020-09-28,invalid_low
+Shiba Inu,2020-09-29,invalid_low
+Shiba Inu,2020-09-30,invalid_low
+Shiba Inu,2020-10-01,invalid_low
+Shiba Inu,2020-10-02,invalid_low
+Shiba Inu,2020-10-03,invalid_low
+Shiba Inu,2020-10-04,invalid_low
+Shiba Inu,2020-10-05,invalid_low
+Shiba Inu,2020-10-06,invalid_low
+Shiba Inu,2020-10-07,invalid_low
+Shiba Inu,2020-10-08,invalid_low
+Shiba Inu,2020-10-09,invalid_low
+Shiba Inu,2020-10-10,invalid_low
+Shiba Inu,2020-10-11,invalid_low
+Shiba Inu,2020-10-12,invalid_low
+Shiba Inu,2020-10-13,invalid_low
+Shiba Inu,2020-10-14,invalid_low
+Shiba Inu,2020-10-15,invalid_low
+Shiba Inu,2020-10-16,invalid_low
+Shiba Inu,2020-10-17,invalid_low
+Shiba Inu,2020-10-18,invalid_low
+Shiba Inu,2020-10-19,invalid_low
+Shiba Inu,2020-10-20,invalid_low
+Shiba Inu,2020-10-21,invalid_low
+Shiba Inu,2020-10-22,invalid_low
+Shiba Inu,2020-10-23,invalid_low
+Shiba Inu,2020-10-24,invalid_low
+Shiba Inu,2020-10-25,invalid_low
+Shiba Inu,2020-10-26,invalid_low
+Shiba Inu,2020-10-27,invalid_low
+Shiba Inu,2020-10-28,invalid_low
+Shiba Inu,2020-10-29,invalid_low
+Shiba Inu,2020-10-30,invalid_low
+Shiba Inu,2020-10-31,invalid_low
+Shiba Inu,2020-11-01,invalid_low
+Shiba Inu,2020-11-02,invalid_low
+Shiba Inu,2020-11-03,invalid_low
+Shiba Inu,2020-11-04,invalid_low
+Shiba Inu,2020-11-05,invalid_low
+Shiba Inu,2020-11-06,invalid_low
+Shiba Inu,2020-11-07,invalid_low
+Shiba Inu,2020-11-08,invalid_low
+Shiba Inu,2020-11-09,invalid_low
+Shiba Inu,2020-11-10,invalid_low
+Shiba Inu,2020-11-11,invalid_low
+Shiba Inu,2020-11-12,invalid_low
+Shiba Inu,2020-11-13,invalid_low
+Shiba Inu,2020-11-14,invalid_low
+Shiba Inu,2020-11-15,invalid_low
+Shiba Inu,2020-11-16,invalid_low
+Shiba Inu,2020-11-17,invalid_low
+Shiba Inu,2020-11-18,invalid_low
+Shiba Inu,2020-11-19,invalid_low
+Shiba Inu,2020-11-20,invalid_low
+Shiba Inu,2020-11-21,invalid_low
+Shiba Inu,2020-11-22,invalid_low
+Shiba Inu,2020-11-23,invalid_low
+Shiba Inu,2020-11-24,invalid_low
+Shiba Inu,2020-11-25,invalid_low
+Shiba Inu,2020-11-26,invalid_low
+Shiba Inu,2020-11-27,invalid_low
+Shiba Inu,2020-11-28,invalid_low
+Shiba Inu,2020-11-29,invalid_low
+Shiba Inu,2020-11-30,invalid_low
+Shiba Inu,2020-12-01,invalid_low
+Shiba Inu,2020-12-02,invalid_low
+Shiba Inu,2020-12-03,invalid_low
+Shiba Inu,2020-12-04,invalid_low
+Shiba Inu,2020-12-05,invalid_low
+Shiba Inu,2020-12-06,invalid_low
+Shiba Inu,2020-12-07,invalid_low
+Shiba Inu,2020-12-08,invalid_low
+Shiba Inu,2020-12-09,invalid_low
+Shiba Inu,2020-12-10,invalid_low
+Shiba Inu,2020-12-11,invalid_low
+Shiba Inu,2020-12-12,invalid_low
+Shiba Inu,2020-12-13,invalid_low
+Shiba Inu,2020-12-14,invalid_low
+Shiba Inu,2020-12-15,invalid_low
+Shiba Inu,2020-12-16,invalid_low
+Shiba Inu,2020-12-17,invalid_low
+Shiba Inu,2020-12-18,invalid_low
+Shiba Inu,2020-12-19,invalid_low
+Shiba Inu,2020-12-20,invalid_low
+Shiba Inu,2020-12-21,invalid_low
+Shiba Inu,2020-12-22,invalid_low
+Shiba Inu,2020-12-23,invalid_low
+Shiba Inu,2020-12-24,invalid_low
+Shiba Inu,2020-12-25,invalid_low
+Shiba Inu,2020-12-26,invalid_low
+Shiba Inu,2020-12-27,invalid_low
+Shiba Inu,2020-12-28,invalid_low
+Shiba Inu,2020-12-29,invalid_low
+Shiba Inu,2020-12-30,invalid_low
+Shiba Inu,2020-12-31,invalid_low
+Shiba Inu,2021-01-01,invalid_low
+Shiba Inu,2021-01-02,invalid_low
+Shiba Inu,2021-01-03,invalid_low
+Shiba Inu,2021-01-04,invalid_low
+Shiba Inu,2021-01-05,invalid_low
+Shiba Inu,2021-01-06,invalid_low
+Shiba Inu,2021-01-07,invalid_low
+Shiba Inu,2021-01-08,invalid_low
+Shiba Inu,2021-01-09,invalid_low
+Shiba Inu,2021-01-10,invalid_low
+Shiba Inu,2021-01-11,invalid_low
+Shiba Inu,2021-01-12,invalid_low
+Shiba Inu,2021-01-13,invalid_low
+Shiba Inu,2021-01-14,invalid_low
+Shiba Inu,2021-01-15,invalid_low
+Shiba Inu,2021-01-16,invalid_low
+Shiba Inu,2021-01-17,invalid_low
+Shiba Inu,2021-01-18,invalid_low
+Shiba Inu,2021-01-19,invalid_low
+Shiba Inu,2021-01-20,invalid_low
+Shiba Inu,2021-01-21,invalid_low
+Shiba Inu,2021-01-22,invalid_low
+Shiba Inu,2021-01-23,invalid_low
+Shiba Inu,2021-01-24,invalid_low
+Shiba Inu,2021-01-25,invalid_low
+Shiba Inu,2021-01-26,invalid_low
+Shiba Inu,2021-01-27,invalid_low
+Shiba Inu,2021-01-28,invalid_low
+Shiba Inu,2021-01-29,invalid_low
+Shiba Inu,2021-01-30,invalid_low
+Shiba Inu,2021-01-31,invalid_low
+Shiba Inu,2021-02-01,invalid_low
+Shiba Inu,2021-02-02,invalid_low
+Shiba Inu,2021-02-03,invalid_low
+Shiba Inu,2021-02-04,invalid_low
+Shiba Inu,2021-02-05,invalid_low
+Shiba Inu,2021-02-06,invalid_low
+Shiba Inu,2021-02-07,invalid_low
+Shiba Inu,2021-02-08,invalid_low
+Shiba Inu,2021-02-09,invalid_low
+Shiba Inu,2021-02-10,invalid_low
+Shiba Inu,2021-02-11,invalid_low
+Shiba Inu,2021-02-12,invalid_low
+Shiba Inu,2021-02-13,invalid_low
+Shiba Inu,2021-02-14,invalid_low
+Shiba Inu,2021-02-15,invalid_low
+Shiba Inu,2021-02-16,invalid_low
+Shiba Inu,2021-02-17,invalid_low
+Shiba Inu,2021-02-18,invalid_low
+Shiba Inu,2021-02-19,invalid_low
+Shiba Inu,2021-02-20,invalid_low
+Shiba Inu,2021-02-21,invalid_low
+Shiba Inu,2021-02-22,invalid_low
+Shiba Inu,2021-02-23,invalid_low
+Shiba Inu,2021-02-24,invalid_low
+Shiba Inu,2021-02-25,invalid_low
+Shiba Inu,2021-02-26,invalid_low
+Shiba Inu,2021-02-27,invalid_low
+Shiba Inu,2021-02-28,invalid_low
+Shiba Inu,2021-03-01,invalid_low
+Shiba Inu,2021-03-02,invalid_low
+Shiba Inu,2021-03-03,invalid_low
+Shiba Inu,2021-03-04,invalid_low
+Shiba Inu,2021-03-05,invalid_low
+Shiba Inu,2021-03-06,invalid_low
+Shiba Inu,2021-03-07,invalid_low
+Shiba Inu,2021-03-08,invalid_low
+Shiba Inu,2021-03-09,invalid_low
+Shiba Inu,2021-03-10,invalid_low
+Shiba Inu,2021-03-11,invalid_low
+Shiba Inu,2021-03-12,invalid_low
+Shiba Inu,2021-03-13,invalid_low
+Shiba Inu,2021-03-14,invalid_low
+Shiba Inu,2021-03-15,invalid_low
+Shiba Inu,2021-03-16,invalid_low
+Shiba Inu,2021-03-17,invalid_low
+Shiba Inu,2021-03-18,invalid_low
+Shiba Inu,2021-03-19,invalid_low
+Shiba Inu,2021-03-20,invalid_low
+Shiba Inu,2021-03-21,invalid_low
+Shiba Inu,2021-03-22,invalid_low
+Shiba Inu,2021-03-23,invalid_low
+Shiba Inu,2021-03-24,invalid_low
+Shiba Inu,2021-03-25,invalid_low
+Shiba Inu,2021-03-26,invalid_low
+Shiba Inu,2021-03-27,invalid_low
+Shiba Inu,2021-03-28,invalid_low
+Shiba Inu,2021-03-29,invalid_low
+Shiba Inu,2021-03-30,invalid_low
+Shiba Inu,2021-03-31,invalid_low
+Shiba Inu,2021-04-01,invalid_low
+Shiba Inu,2021-04-02,invalid_low
+Shiba Inu,2021-04-03,invalid_low
+Shiba Inu,2021-04-04,invalid_low
+Shiba Inu,2021-04-05,invalid_low
+Shiba Inu,2021-04-06,invalid_low
+Shiba Inu,2021-04-07,invalid_low
+Shiba Inu,2021-04-08,invalid_low
+Shiba Inu,2021-04-09,invalid_low
+Shiba Inu,2021-04-10,invalid_low
+Shiba Inu,2021-04-11,invalid_low
+Shiba Inu,2021-04-12,invalid_low
+Shiba Inu,2021-04-13,invalid_low
+Shiba Inu,2021-04-14,invalid_low
+Shiba Inu,2021-04-15,invalid_low
+Shiba Inu,2021-04-16,invalid_low
+Shiba Inu,2020-08-01,invalid_close
+Shiba Inu,2020-08-02,invalid_close
+Shiba Inu,2020-08-03,invalid_close
+Shiba Inu,2020-08-04,invalid_close
+Shiba Inu,2020-08-05,invalid_close
+Shiba Inu,2020-08-06,invalid_close
+Shiba Inu,2020-08-07,invalid_close
+Shiba Inu,2020-08-08,invalid_close
+Shiba Inu,2020-08-09,invalid_close
+Shiba Inu,2020-08-10,invalid_close
+Shiba Inu,2020-08-11,invalid_close
+Shiba Inu,2020-08-12,invalid_close
+Shiba Inu,2020-08-13,invalid_close
+Shiba Inu,2020-08-14,invalid_close
+Shiba Inu,2020-08-15,invalid_close
+Shiba Inu,2020-08-16,invalid_close
+Shiba Inu,2020-08-17,invalid_close
+Shiba Inu,2020-08-18,invalid_close
+Shiba Inu,2020-08-19,invalid_close
+Shiba Inu,2020-08-20,invalid_close
+Shiba Inu,2020-08-21,invalid_close
+Shiba Inu,2020-08-22,invalid_close
+Shiba Inu,2020-08-23,invalid_close
+Shiba Inu,2020-08-24,invalid_close
+Shiba Inu,2020-08-25,invalid_close
+Shiba Inu,2020-08-26,invalid_close
+Shiba Inu,2020-08-27,invalid_close
+Shiba Inu,2020-08-28,invalid_close
+Shiba Inu,2020-08-29,invalid_close
+Shiba Inu,2020-08-30,invalid_close
+Shiba Inu,2020-08-31,invalid_close
+Shiba Inu,2020-09-01,invalid_close
+Shiba Inu,2020-09-02,invalid_close
+Shiba Inu,2020-09-03,invalid_close
+Shiba Inu,2020-09-04,invalid_close
+Shiba Inu,2020-09-05,invalid_close
+Shiba Inu,2020-09-06,invalid_close
+Shiba Inu,2020-09-07,invalid_close
+Shiba Inu,2020-09-08,invalid_close
+Shiba Inu,2020-09-09,invalid_close
+Shiba Inu,2020-09-10,invalid_close
+Shiba Inu,2020-09-11,invalid_close
+Shiba Inu,2020-09-12,invalid_close
+Shiba Inu,2020-09-13,invalid_close
+Shiba Inu,2020-09-14,invalid_close
+Shiba Inu,2020-09-15,invalid_close
+Shiba Inu,2020-09-16,invalid_close
+Shiba Inu,2020-09-17,invalid_close
+Shiba Inu,2020-09-18,invalid_close
+Shiba Inu,2020-09-19,invalid_close
+Shiba Inu,2020-09-20,invalid_close
+Shiba Inu,2020-09-21,invalid_close
+Shiba Inu,2020-09-22,invalid_close
+Shiba Inu,2020-09-23,invalid_close
+Shiba Inu,2020-09-24,invalid_close
+Shiba Inu,2020-09-25,invalid_close
+Shiba Inu,2020-09-26,invalid_close
+Shiba Inu,2020-09-27,invalid_close
+Shiba Inu,2020-09-28,invalid_close
+Shiba Inu,2020-09-29,invalid_close
+Shiba Inu,2020-09-30,invalid_close
+Shiba Inu,2020-10-01,invalid_close
+Shiba Inu,2020-10-02,invalid_close
+Shiba Inu,2020-10-03,invalid_close
+Shiba Inu,2020-10-04,invalid_close
+Shiba Inu,2020-10-05,invalid_close
+Shiba Inu,2020-10-06,invalid_close
+Shiba Inu,2020-10-07,invalid_close
+Shiba Inu,2020-10-08,invalid_close
+Shiba Inu,2020-10-09,invalid_close
+Shiba Inu,2020-10-10,invalid_close
+Shiba Inu,2020-10-11,invalid_close
+Shiba Inu,2020-10-12,invalid_close
+Shiba Inu,2020-10-13,invalid_close
+Shiba Inu,2020-10-14,invalid_close
+Shiba Inu,2020-10-15,invalid_close
+Shiba Inu,2020-10-16,invalid_close
+Shiba Inu,2020-10-17,invalid_close
+Shiba Inu,2020-10-18,invalid_close
+Shiba Inu,2020-10-19,invalid_close
+Shiba Inu,2020-10-20,invalid_close
+Shiba Inu,2020-10-21,invalid_close
+Shiba Inu,2020-10-22,invalid_close
+Shiba Inu,2020-10-23,invalid_close
+Shiba Inu,2020-10-24,invalid_close
+Shiba Inu,2020-10-25,invalid_close
+Shiba Inu,2020-10-26,invalid_close
+Shiba Inu,2020-10-27,invalid_close
+Shiba Inu,2020-10-28,invalid_close
+Shiba Inu,2020-10-29,invalid_close
+Shiba Inu,2020-10-30,invalid_close
+Shiba Inu,2020-10-31,invalid_close
+Shiba Inu,2020-11-01,invalid_close
+Shiba Inu,2020-11-02,invalid_close
+Shiba Inu,2020-11-03,invalid_close
+Shiba Inu,2020-11-04,invalid_close
+Shiba Inu,2020-11-05,invalid_close
+Shiba Inu,2020-11-06,invalid_close
+Shiba Inu,2020-11-07,invalid_close
+Shiba Inu,2020-11-08,invalid_close
+Shiba Inu,2020-11-09,invalid_close
+Shiba Inu,2020-11-10,invalid_close
+Shiba Inu,2020-11-11,invalid_close
+Shiba Inu,2020-11-12,invalid_close
+Shiba Inu,2020-11-13,invalid_close
+Shiba Inu,2020-11-14,invalid_close
+Shiba Inu,2020-11-15,invalid_close
+Shiba Inu,2020-11-16,invalid_close
+Shiba Inu,2020-11-17,invalid_close
+Shiba Inu,2020-11-18,invalid_close
+Shiba Inu,2020-11-19,invalid_close
+Shiba Inu,2020-11-20,invalid_close
+Shiba Inu,2020-11-21,invalid_close
+Shiba Inu,2020-11-22,invalid_close
+Shiba Inu,2020-11-23,invalid_close
+Shiba Inu,2020-11-24,invalid_close
+Shiba Inu,2020-11-25,invalid_close
+Shiba Inu,2020-11-26,invalid_close
+Shiba Inu,2020-11-27,invalid_close
+Shiba Inu,2020-11-28,invalid_close
+Shiba Inu,2020-11-29,invalid_close
+Shiba Inu,2020-11-30,invalid_close
+Shiba Inu,2020-12-01,invalid_close
+Shiba Inu,2020-12-02,invalid_close
+Shiba Inu,2020-12-03,invalid_close
+Shiba Inu,2020-12-04,invalid_close
+Shiba Inu,2020-12-05,invalid_close
+Shiba Inu,2020-12-06,invalid_close
+Shiba Inu,2020-12-07,invalid_close
+Shiba Inu,2020-12-08,invalid_close
+Shiba Inu,2020-12-09,invalid_close
+Shiba Inu,2020-12-10,invalid_close
+Shiba Inu,2020-12-11,invalid_close
+Shiba Inu,2020-12-12,invalid_close
+Shiba Inu,2020-12-13,invalid_close
+Shiba Inu,2020-12-14,invalid_close
+Shiba Inu,2020-12-15,invalid_close
+Shiba Inu,2020-12-16,invalid_close
+Shiba Inu,2020-12-17,invalid_close
+Shiba Inu,2020-12-18,invalid_close
+Shiba Inu,2020-12-19,invalid_close
+Shiba Inu,2020-12-20,invalid_close
+Shiba Inu,2020-12-21,invalid_close
+Shiba Inu,2020-12-22,invalid_close
+Shiba Inu,2020-12-23,invalid_close
+Shiba Inu,2020-12-24,invalid_close
+Shiba Inu,2020-12-25,invalid_close
+Shiba Inu,2020-12-26,invalid_close
+Shiba Inu,2020-12-27,invalid_close
+Shiba Inu,2020-12-28,invalid_close
+Shiba Inu,2020-12-29,invalid_close
+Shiba Inu,2020-12-30,invalid_close
+Shiba Inu,2020-12-31,invalid_close
+Shiba Inu,2021-01-01,invalid_close
+Shiba Inu,2021-01-02,invalid_close
+Shiba Inu,2021-01-03,invalid_close
+Shiba Inu,2021-01-04,invalid_close
+Shiba Inu,2021-01-05,invalid_close
+Shiba Inu,2021-01-06,invalid_close
+Shiba Inu,2021-01-07,invalid_close
+Shiba Inu,2021-01-08,invalid_close
+Shiba Inu,2021-01-09,invalid_close
+Shiba Inu,2021-01-10,invalid_close
+Shiba Inu,2021-01-11,invalid_close
+Shiba Inu,2021-01-12,invalid_close
+Shiba Inu,2021-01-13,invalid_close
+Shiba Inu,2021-01-14,invalid_close
+Shiba Inu,2021-01-15,invalid_close
+Shiba Inu,2021-01-16,invalid_close
+Shiba Inu,2021-01-17,invalid_close
+Shiba Inu,2021-01-18,invalid_close
+Shiba Inu,2021-01-19,invalid_close
+Shiba Inu,2021-01-20,invalid_close
+Shiba Inu,2021-01-21,invalid_close
+Shiba Inu,2021-01-22,invalid_close
+Shiba Inu,2021-01-23,invalid_close
+Shiba Inu,2021-01-24,invalid_close
+Shiba Inu,2021-01-25,invalid_close
+Shiba Inu,2021-01-26,invalid_close
+Shiba Inu,2021-01-27,invalid_close
+Shiba Inu,2021-01-28,invalid_close
+Shiba Inu,2021-01-29,invalid_close
+Shiba Inu,2021-01-30,invalid_close
+Shiba Inu,2021-01-31,invalid_close
+Shiba Inu,2021-02-01,invalid_close
+Shiba Inu,2021-02-02,invalid_close
+Shiba Inu,2021-02-03,invalid_close
+Shiba Inu,2021-02-04,invalid_close
+Shiba Inu,2021-02-05,invalid_close
+Shiba Inu,2021-02-06,invalid_close
+Shiba Inu,2021-02-07,invalid_close
+Shiba Inu,2021-02-08,invalid_close
+Shiba Inu,2021-02-09,invalid_close
+Shiba Inu,2021-02-10,invalid_close
+Shiba Inu,2021-02-11,invalid_close
+Shiba Inu,2021-02-12,invalid_close
+Shiba Inu,2021-02-13,invalid_close
+Shiba Inu,2021-02-14,invalid_close
+Shiba Inu,2021-02-15,invalid_close
+Shiba Inu,2021-02-16,invalid_close
+Shiba Inu,2021-02-17,invalid_close
+Shiba Inu,2021-02-18,invalid_close
+Shiba Inu,2021-02-19,invalid_close
+Shiba Inu,2021-02-20,invalid_close
+Shiba Inu,2021-02-21,invalid_close
+Shiba Inu,2021-02-22,invalid_close
+Shiba Inu,2021-02-23,invalid_close
+Shiba Inu,2021-02-24,invalid_close
+Shiba Inu,2021-02-25,invalid_close
+Shiba Inu,2021-02-26,invalid_close
+Shiba Inu,2021-02-27,invalid_close
+Shiba Inu,2021-02-28,invalid_close
+Shiba Inu,2021-03-01,invalid_close
+Shiba Inu,2021-03-02,invalid_close
+Shiba Inu,2021-03-03,invalid_close
+Shiba Inu,2021-03-04,invalid_close
+Shiba Inu,2021-03-05,invalid_close
+Shiba Inu,2021-03-06,invalid_close
+Shiba Inu,2021-03-07,invalid_close
+Shiba Inu,2021-03-08,invalid_close
+Shiba Inu,2021-03-09,invalid_close
+Shiba Inu,2021-03-10,invalid_close
+Shiba Inu,2021-03-11,invalid_close
+Shiba Inu,2021-03-12,invalid_close
+Shiba Inu,2021-03-13,invalid_close
+Shiba Inu,2021-03-14,invalid_close
+Shiba Inu,2021-03-15,invalid_close
+Shiba Inu,2021-03-16,invalid_close
+Shiba Inu,2021-03-17,invalid_close
+Shiba Inu,2021-03-18,invalid_close
+Shiba Inu,2021-03-19,invalid_close
+Shiba Inu,2021-03-20,invalid_close
+Shiba Inu,2021-03-21,invalid_close
+Shiba Inu,2021-03-22,invalid_close
+Shiba Inu,2021-03-23,invalid_close
+Shiba Inu,2021-03-24,invalid_close
+Shiba Inu,2021-03-25,invalid_close
+Shiba Inu,2021-03-26,invalid_close
+Shiba Inu,2021-03-27,invalid_close
+Shiba Inu,2021-03-28,invalid_close
+Shiba Inu,2021-03-29,invalid_close
+Shiba Inu,2021-03-30,invalid_close
+Shiba Inu,2021-03-31,invalid_close
+Shiba Inu,2021-04-01,invalid_close
+Shiba Inu,2021-04-02,invalid_close
+Shiba Inu,2021-04-03,invalid_close
+Shiba Inu,2021-04-04,invalid_close
+Shiba Inu,2021-04-05,invalid_close
+Shiba Inu,2021-04-06,invalid_close
+Shiba Inu,2021-04-07,invalid_close
+Shiba Inu,2021-04-08,invalid_close
+Shiba Inu,2021-04-09,invalid_close
+Shiba Inu,2021-04-10,invalid_close
+Shiba Inu,2021-04-11,invalid_close
+Shiba Inu,2021-04-12,invalid_close
+Shiba Inu,2021-04-13,invalid_close
+Shiba Inu,2021-04-14,invalid_close
+Shiba Inu,2021-04-15,invalid_close
+Shiba Inu,2022-08-22,missing_calendar_day
+solana,2020-12-13,missing_calendar_day
+solana,2020-12-14,missing_calendar_day
+Stacks,2022-08-22,missing_calendar_day
+STEPN,2022-08-22,missing_calendar_day
+Synthetix,2022-08-22,missing_calendar_day
+tether,2018-01-12,missing_calendar_day
+Tezos,2022-08-22,missing_calendar_day
+The Sandbox,2022-08-22,missing_calendar_day
+Theta Network,2022-08-22,missing_calendar_day
+THORChain,2022-08-22,missing_calendar_day
+TrueUSD,2022-08-22,missing_calendar_day
+Trust Wallet Token,2022-08-22,missing_calendar_day
+USDD,2022-08-22,missing_calendar_day
+VeChain,2022-08-22,missing_calendar_day
+Waves,2022-08-22,missing_calendar_day
+xrp,2017-01-22,inconsistent_ohlc
+xrp,2017-01-29,inconsistent_ohlc
+xrp,2017-01-30,inconsistent_ohlc
+Zcash,2022-08-22,missing_calendar_day
+Zilliqa,2022-08-22,missing_calendar_day

@@ -1,0 +1,295 @@
+asset,model,origin,target_start,target_end,actual,predicted,train_target_end,n_train,status,error,clipped
+1inch,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+1inch,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+1inch,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,485,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Aave,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Aave,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Aave,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,569,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Algorand,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Algorand,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Algorand,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1038,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+ApeCoin,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+ApeCoin,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+ApeCoin,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,436,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Arweave,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Arweave,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Arweave,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,697,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+avalanche,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.8990346798490501,,0,ok,,False
+avalanche,Historical90,2022-08-23,2022-08-24,2022-09-22,,1.224118257461943,,0,ok,,False
+avalanche,Ridge,2022-08-23,2022-08-24,2022-09-22,,1.208016568797033,2022-08-23,487,ok,,False
+Axie Infinity,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Axie Infinity,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Axie Infinity,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,536,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Basic Attention Token,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Basic Attention Token,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Basic Attention Token,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1627,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Binance USD,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Binance USD,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Binance USD,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,947,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Bitcoin BEP2,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Bitcoin BEP2,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Bitcoin BEP2,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,910,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+bitcoin cash,Persistence,2022-08-23,2022-08-24,2022-09-22,,1.059022059828618,,0,ok,,False
+bitcoin cash,Historical90,2022-08-23,2022-08-24,2022-09-22,,1.0002645391760951,,0,ok,,False
+bitcoin cash,Ridge,2022-08-23,2022-08-24,2022-09-22,,0.9432972507316081,2022-08-23,1727,ok,,False
+Bitcoin Gold,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Bitcoin Gold,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Bitcoin Gold,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1627,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Bitcoin SV,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Bitcoin SV,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Bitcoin SV,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1262,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+bitcoin,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.589919503011857,,0,ok,,False
+bitcoin,Historical90,2022-08-23,2022-08-24,2022-09-22,,0.7220120324243768,,0,ok,,False
+bitcoin,Ridge,2022-08-23,2022-08-24,2022-09-22,,0.6399866837797792,2022-08-23,4300,ok,,False
+BitTorrent (New),Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+BitTorrent (New),Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+BitTorrent (New),Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1179,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+BNB,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+BNB,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+BNB,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1627,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+cardano,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.7505551001707204,,0,ok,,False
+cardano,Historical90,2022-08-23,2022-08-24,2022-09-22,,0.9631482168768446,,0,ok,,False
+cardano,Ridge,2022-08-23,2022-08-24,2022-09-22,,0.9562606794118033,2022-08-23,1577,ok,,False
+Celo,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Celo,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Celo,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,702,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Celsius,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Celsius,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Celsius,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1300,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+chainlink,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.8739115176724883,,0,ok,,False
+chainlink,Historical90,2022-08-23,2022-08-24,2022-09-22,,1.0677973277531974,,0,ok,,False
+chainlink,Ridge,2022-08-23,2022-08-24,2022-09-22,,1.1351538106864159,2022-08-23,1544,ok,,False
+Chiliz,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Chiliz,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Chiliz,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,904,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Compound,Persistence,2022-01-23,2022-01-24,2022-02-22,,,,0,insufficient_training,Latest origin has 164 matured training labels; 250 required.,False
+Compound,Historical90,2022-01-23,2022-01-24,2022-02-22,,,,0,insufficient_training,Latest origin has 164 matured training labels; 250 required.,False
+Compound,Ridge,2022-01-23,2022-01-24,2022-02-22,,,,0,insufficient_training,Latest origin has 164 matured training labels; 250 required.,False
+Convex Finance,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Convex Finance,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Convex Finance,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,341,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+cosmos,Persistence,2021-09-06,2021-09-07,2021-10-06,,1.1318686479979316,,0,ok,,False
+cosmos,Historical90,2021-09-06,2021-09-07,2021-10-06,,1.190839162185255,,0,ok,,False
+cosmos,Ridge,2021-09-06,2021-09-07,2021-10-06,,1.151144808899614,2021-09-06,726,ok,,False
+Cronos,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Cronos,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Cronos,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1227,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Curve DAO Token,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Curve DAO Token,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Curve DAO Token,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,618,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+dai,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.005520903018903787,,0,ok,,False
+dai,Historical90,2022-08-23,2022-08-24,2022-09-22,,0.008015118145169678,,0,ok,,False
+dai,Ridge,2022-08-23,2022-08-24,2022-09-22,,0.019105211332213243,2022-08-23,1342,ok,,False
+Dash,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Dash,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Dash,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1627,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Decentraland,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Decentraland,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Decentraland,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1627,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Decred,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Decred,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Decred,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1627,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+dogecoin,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.9110630081565292,,0,ok,,False
+dogecoin,Historical90,2022-08-23,2022-08-24,2022-09-22,,0.9837709106781511,,0,ok,,False
+dogecoin,Ridge,2022-08-23,2022-08-24,2022-09-22,,0.9945932428342326,2022-08-23,1788,ok,,False
+eCash,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+eCash,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+eCash,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,290,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Elrond,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Elrond,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Elrond,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,597,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Enjin Coin,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Enjin Coin,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Enjin Coin,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1627,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+EOS,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+EOS,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+EOS,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1627,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+ethereum classic,Persistence,2022-08-23,2022-08-24,2022-09-22,,1.5799092918021824,,0,ok,,False
+ethereum classic,Historical90,2022-08-23,2022-08-24,2022-09-22,,1.3848224501884243,,0,ok,,False
+ethereum classic,Ridge,2022-08-23,2022-08-24,2022-09-22,,1.108825540340078,2022-08-23,2098,ok,,False
+ethereum,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.9330571485336834,,0,ok,,False
+ethereum,Historical90,2022-08-23,2022-08-24,2022-09-22,,1.07324216373181,,0,ok,,False
+ethereum,Ridge,2022-08-23,2022-08-24,2022-09-22,,0.8422344557067282,2022-08-23,2238,ok,,False
+Fantom,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Fantom,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Fantom,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1272,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Fei USD,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Fei USD,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Fei USD,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,386,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Filecoin,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Filecoin,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Filecoin,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1593,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Flow,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Flow,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Flow,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,452,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+ftx token,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.7339100720160588,,0,ok,,False
+ftx token,Historical90,2022-08-23,2022-08-24,2022-09-22,,0.8116046391854037,,0,ok,,False
+ftx token,Ridge,2022-08-23,2022-08-24,2022-09-22,,0.6128038789603012,2022-08-23,858,ok,,False
+Gala,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Gala,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Gala,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,543,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Gnosis,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Gnosis,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Gnosis,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1627,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Hedera,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Hedera,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Hedera,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,950,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Helium,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Helium,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Helium,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,685,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Holo,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Holo,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Holo,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1555,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Huobi Token,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Huobi Token,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Huobi Token,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1541,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Internet Computer,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Internet Computer,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Internet Computer,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,349,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+IOTA,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+IOTA,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+IOTA,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1627,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Kava,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Kava,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Kava,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,912,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Klaytn,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Klaytn,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Klaytn,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,755,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+KuCoin Token,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+KuCoin Token,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+KuCoin Token,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1627,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Kusama,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Kusama,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Kusama,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,864,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Lido DAO,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Lido DAO,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Lido DAO,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,474,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+litecoin,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.7553440531926636,,0,ok,,False
+litecoin,Historical90,2022-08-23,2022-08-24,2022-09-22,,0.8904803662530579,,0,ok,,False
+litecoin,Ridge,2022-08-23,2022-08-24,2022-09-22,,0.8961453506523914,2022-08-23,2071,ok,,False
+Loopring,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Loopring,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Loopring,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1627,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Maker,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Maker,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Maker,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1616,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Mina,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Mina,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Mina,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,327,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+monero,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.765727421428595,,0,ok,,False
+monero,Historical90,2022-08-23,2022-08-24,2022-09-22,,0.9092001882278721,,0,ok,,False
+monero,Ridge,2022-08-23,2022-08-24,2022-09-22,,0.9052606623048408,2022-08-23,2643,ok,,False
+near protocol,Persistence,2022-08-23,2022-08-24,2022-09-22,,1.178195568378307,,0,ok,,False
+near protocol,Historical90,2022-08-23,2022-08-24,2022-09-22,,1.2477562591676317,,0,ok,,False
+near protocol,Ridge,2022-08-23,2022-08-24,2022-09-22,,1.7394061446329847,2022-08-23,558,ok,,False
+NEM,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+NEM,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+NEM,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1627,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Neo,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Neo,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Neo,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1627,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Neutrino USD,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Neutrino USD,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Neutrino USD,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,815,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Nexo,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Nexo,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Nexo,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1448,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+OKB,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+OKB,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+OKB,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1090,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+PancakeSwap,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+PancakeSwap,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+PancakeSwap,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,572,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Pax Dollar,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Pax Dollar,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Pax Dollar,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1305,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+PAX Gold,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+PAX Gold,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+PAX Gold,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,941,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+polkadot,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.9297153008212822,,0,ok,,False
+polkadot,Historical90,2022-08-23,2022-08-24,2022-09-22,,0.9765692004824936,,0,ok,,False
+polkadot,Ridge,2022-08-23,2022-08-24,2022-09-22,,1.2645221917964753,2022-08-23,613,ok,,False
+polygon,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.9680422673133123,,0,ok,,False
+polygon,Historical90,2022-08-23,2022-08-24,2022-09-22,,1.3408500491721913,,0,ok,,False
+polygon,Ridge,2022-08-23,2022-08-24,2022-09-22,,1.196010120389373,2022-08-23,1034,ok,,False
+Qtum,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Qtum,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Qtum,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1627,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Quant,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Quant,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Quant,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1353,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Shiba Inu,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Shiba Inu,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Shiba Inu,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,373,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+solana,Persistence,2021-08-28,2021-08-29,2021-09-27,,,,0,insufficient_training,Latest origin has 209 matured training labels; 250 required.,False
+solana,Historical90,2021-08-28,2021-08-29,2021-09-27,,,,0,insufficient_training,Latest origin has 209 matured training labels; 250 required.,False
+solana,Ridge,2021-08-28,2021-08-29,2021-09-27,,,,0,insufficient_training,Latest origin has 209 matured training labels; 250 required.,False
+Stacks,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Stacks,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Stacks,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,909,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+stellar,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.5947204896114254,,0,ok,,False
+stellar,Historical90,2022-08-23,2022-08-24,2022-09-22,,0.769261240715545,,0,ok,,False
+stellar,Ridge,2022-08-23,2022-08-24,2022-09-22,,0.801840724124067,2022-08-23,1889,ok,,False
+STEPN,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+STEPN,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+STEPN,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,376,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Synthetix,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Synthetix,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Synthetix,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1502,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+tether,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.002029546264091015,,0,ok,,False
+tether,Historical90,2022-08-23,2022-08-24,2022-09-22,,0.005054675763007485,,0,ok,,False
+tether,Ridge,2022-08-23,2022-08-24,2022-09-22,,0.008887955332319834,2022-08-23,1717,ok,,False
+Tezos,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Tezos,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Tezos,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1627,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+The Graph,Persistence,2022-04-01,2022-04-02,2022-05-01,,1.0606008845844364,,0,ok,,False
+The Graph,Historical90,2022-04-01,2022-04-02,2022-05-01,,1.0874505961009688,,0,ok,,False
+The Graph,Ridge,2022-04-01,2022-04-02,2022-05-01,,1.264885984539621,2022-04-01,532,ok,,False
+The Sandbox,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+The Sandbox,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+The Sandbox,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,618,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Theta Network,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Theta Network,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Theta Network,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1558,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+THORChain,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+THORChain,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+THORChain,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1006,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+tron,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.40156875630797434,,0,ok,,False
+tron,Historical90,2022-08-23,2022-08-24,2022-09-22,,0.6500647598995275,,0,ok,,False
+tron,Ridge,2022-08-23,2022-08-24,2022-09-22,,0.7117245801651404,2022-08-23,1624,ok,,False
+TrueUSD,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+TrueUSD,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+TrueUSD,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1510,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Trust Wallet Token,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Trust Wallet Token,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Trust Wallet Token,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,633,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+uniswap,Persistence,2022-08-23,2022-08-24,2022-09-22,,1.111820759202041,,0,ok,,False
+uniswap,Historical90,2022-08-23,2022-08-24,2022-09-22,,1.2583374644730725,,0,ok,,False
+uniswap,Ridge,2022-08-23,2022-08-24,2022-09-22,,1.123194559365216,2022-08-23,536,ok,,False
+unus sed leo,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.4884072783806406,,0,ok,,False
+unus sed leo,Historical90,2022-08-23,2022-08-24,2022-09-22,,0.47284406702011317,,0,ok,,False
+unus sed leo,Ridge,2022-08-23,2022-08-24,2022-09-22,,0.4796234696539655,2022-08-23,1034,ok,,False
+usd coin,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.0019694159791893294,,0,ok,,False
+usd coin,Historical90,2022-08-23,2022-08-24,2022-09-22,,0.003065738334539689,,0,ok,,False
+usd coin,Ridge,2022-08-23,2022-08-24,2022-09-22,,0.00284919596735368,2022-08-23,1237,ok,,False
+USDD,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,insufficient_training,Latest origin has 0 matured training labels; 250 required.,False
+USDD,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,insufficient_training,Latest origin has 0 matured training labels; 250 required.,False
+USDD,Ridge,2022-08-23,2022-08-24,2022-09-22,,,,0,insufficient_training,Latest origin has 0 matured training labels; 250 required.,False
+VeChain,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+VeChain,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+VeChain,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1360,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Waves,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Waves,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Waves,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1627,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+wrapped bitcoin,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.5871521534510623,,0,ok,,False
+wrapped bitcoin,Historical90,2022-08-23,2022-08-24,2022-09-22,,0.724989122957443,,0,ok,,False
+wrapped bitcoin,Ridge,2022-08-23,2022-08-24,2022-09-22,,0.7499480662448008,2022-08-23,524,ok,,False
+xrp,Persistence,2022-08-23,2022-08-24,2022-09-22,,0.5888430015874193,,0,ok,,False
+xrp,Historical90,2022-08-23,2022-08-24,2022-09-22,,0.682396634149054,,0,ok,,False
+xrp,Ridge,2022-08-23,2022-08-24,2022-09-22,,0.8659754125159216,2022-08-23,2651,ok,,False
+Zcash,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Zcash,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Zcash,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1627,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Zilliqa,Persistence,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Zilliqa,Historical90,2022-08-23,2022-08-24,2022-09-22,,,,0,missing_features,A complete past 90-day return history is required; gaps are not filled.,False
+Zilliqa,Ridge,2022-08-23,2022-08-24,2022-09-22,,,2022-08-21,1550,missing_features,A complete past 90-day return history is required; gaps are not filled.,False

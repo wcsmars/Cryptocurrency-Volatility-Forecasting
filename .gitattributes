@@ -1,0 +1,5 @@
+# Code and reference hashes are computed over raw bytes: keep LF on every platform
+# so a CRLF checkout cannot make the provenance checks report "code changed".
+* text=auto eol=lf
+*.png binary
+*.zip binary

@@ -1,0 +1,100 @@
+asset,status,source_rows,calendar_rows,start,end,missing_days,invalid_close_rows,valid_daily_returns,valid_30day_windows,zero_volume_rows,missing_or_invalid_volume_rows,ohlc_invalid_rows,missing_columns,currency,reason,file
+1inch,accepted,606.0,607.0,2020-12-25,2022-08-23,1.0,0.0,604.0,575.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,1inch.csv
+Aave,accepted,690.0,691.0,2020-10-02,2022-08-23,1.0,0.0,688.0,659.0,4.0,0.0,1.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Aave.csv
+Algorand,accepted,1159.0,1160.0,2019-06-21,2022-08-23,1.0,0.0,1157.0,1128.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Algorand.csv
+ApeCoin,accepted,677.0,692.0,2020-10-01,2022-08-23,15.0,0.0,674.0,616.0,54.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,ApeCoin.csv
+Arweave,accepted,818.0,819.0,2020-05-27,2022-08-23,1.0,0.0,816.0,787.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Arweave.csv
+avalanche,accepted,607.0,607.0,2020-12-25,2022-08-23,0.0,0.0,606.0,577.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,avalanche.csv
+Axie Infinity,accepted,657.0,658.0,2020-11-04,2022-08-23,1.0,0.0,655.0,626.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Axie Infinity.csv
+Basic Attention Token,accepted,1748.0,1749.0,2017-11-09,2022-08-23,1.0,0.0,1746.0,1717.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Basic Attention Token.csv
+Binance USD,accepted,1068.0,1069.0,2019-09-20,2022-08-23,1.0,0.0,1066.0,1037.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Binance USD.csv
+Bitcoin BEP2,accepted,1151.0,1163.0,2019-06-18,2022-08-23,12.0,0.0,1148.0,1090.0,3.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Bitcoin BEP2.csv
+bitcoin cash,accepted,1847.0,1847.0,2017-08-03,2022-08-23,0.0,0.0,1846.0,1817.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,bitcoin cash.csv
+Bitcoin Gold,accepted,1748.0,1749.0,2017-11-09,2022-08-23,1.0,0.0,1746.0,1717.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Bitcoin Gold.csv
+Bitcoin SV,accepted,1383.0,1384.0,2018-11-09,2022-08-23,1.0,0.0,1381.0,1352.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Bitcoin SV.csv
+bitcoin,accepted,4420.0,4420.0,2010-07-18,2022-08-23,0.0,0.0,4419.0,4390.0,6.0,0.0,33.0,,USD,Invalid values and calendar gaps retained as missing; no filling,bitcoin.csv
+BitTorrent (New),accepted,1300.0,1301.0,2019-01-31,2022-08-23,1.0,0.0,1298.0,1269.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,BitTorrent (New).csv
+BNB,accepted,1748.0,1749.0,2017-11-09,2022-08-23,1.0,0.0,1746.0,1717.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,BNB.csv
+cardano,accepted,1697.0,1697.0,2017-12-31,2022-08-23,0.0,0.0,1696.0,1667.0,5.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,cardano.csv
+Celo,accepted,823.0,824.0,2020-05-22,2022-08-23,1.0,0.0,821.0,792.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Celo.csv
+Celsius,accepted,1422.0,1574.0,2018-05-03,2022-08-23,152.0,0.0,1419.0,1390.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Celsius.csv
+chainlink,accepted,1664.0,1664.0,2018-02-02,2022-08-23,0.0,0.0,1663.0,1634.0,6.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,chainlink.csv
+Chiliz,accepted,1145.0,1150.0,2019-07-01,2022-08-23,5.0,0.0,1142.0,1084.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Chiliz.csv
+Compound,accepted,895.0,1257.0,2018-08-16,2022-01-23,362.0,352.0,516.0,363.0,121.0,0.0,389.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Compound.csv
+Convex Finance,accepted,462.0,463.0,2021-05-18,2022-08-23,1.0,0.0,460.0,431.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Convex Finance.csv
+cosmos,accepted,846.0,846.0,2019-05-15,2021-09-06,0.0,0.0,845.0,816.0,1.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,cosmos.csv
+Cronos,accepted,1348.0,1349.0,2018-12-14,2022-08-23,1.0,0.0,1346.0,1317.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Cronos.csv
+Current Crypto leaderboard,skipped,,,,,,,,,,,,,,"Leaderboard is a static snapshot, not daily prices",Current Crypto leaderboard.csv
+Curve DAO Token,accepted,739.0,740.0,2020-08-14,2022-08-23,1.0,0.0,737.0,708.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Curve DAO Token.csv
+dai,accepted,1661.0,1664.0,2018-02-02,2022-08-23,3.0,0.0,1658.0,1571.0,24.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,dai.csv
+Dash,accepted,1748.0,1749.0,2017-11-09,2022-08-23,1.0,0.0,1746.0,1717.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Dash.csv
+Decentraland,accepted,1748.0,1749.0,2017-11-09,2022-08-23,1.0,0.0,1746.0,1717.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Decentraland.csv
+Decred,accepted,1748.0,1749.0,2017-11-09,2022-08-23,1.0,0.0,1746.0,1717.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Decred.csv
+dogecoin,accepted,1908.0,1908.0,2017-06-03,2022-08-23,0.0,0.0,1907.0,1878.0,1.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,dogecoin.csv
+eCash,accepted,411.0,412.0,2021-07-08,2022-08-23,1.0,0.0,409.0,380.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,eCash.csv
+Elrond,accepted,718.0,719.0,2020-09-04,2022-08-23,1.0,0.0,716.0,687.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Elrond.csv
+Enjin Coin,accepted,1748.0,1749.0,2017-11-09,2022-08-23,1.0,0.0,1746.0,1717.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Enjin Coin.csv
+EOS,accepted,1748.0,1749.0,2017-11-09,2022-08-23,1.0,0.0,1746.0,1717.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,EOS.csv
+ethereum classic,accepted,2218.0,2218.0,2016-07-28,2022-08-23,0.0,0.0,2217.0,2188.0,12.0,0.0,3.0,,USD,Invalid values and calendar gaps retained as missing; no filling,ethereum classic.csv
+ethereum,accepted,2358.0,2358.0,2016-03-10,2022-08-23,0.0,0.0,2357.0,2328.0,8.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,ethereum.csv
+Fantom,accepted,1393.0,1394.0,2018-10-30,2022-08-23,1.0,0.0,1391.0,1362.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Fantom.csv
+Fei USD,accepted,507.0,508.0,2021-04-03,2022-08-23,1.0,0.0,505.0,476.0,0.0,0.0,1.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Fei USD.csv
+Filecoin,accepted,1714.0,1715.0,2017-12-13,2022-08-23,1.0,0.0,1712.0,1683.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Filecoin.csv
+Flow,accepted,573.0,574.0,2021-01-27,2022-08-23,1.0,0.0,571.0,542.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Flow.csv
+ftx token,accepted,978.0,978.0,2019-12-20,2022-08-23,0.0,0.0,977.0,948.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,ftx token.csv
+Gala,accepted,674.0,705.0,2020-09-18,2022-08-23,31.0,0.0,668.0,633.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Gala.csv
+Gnosis,accepted,1748.0,1749.0,2017-11-09,2022-08-23,1.0,0.0,1746.0,1717.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Gnosis.csv
+Hedera,accepted,1071.0,1072.0,2019-09-17,2022-08-23,1.0,0.0,1069.0,1040.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Hedera.csv
+Helium,accepted,806.0,807.0,2020-06-08,2022-08-23,1.0,0.0,804.0,775.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Helium.csv
+Holo,accepted,1676.0,1677.0,2018-01-20,2022-08-23,1.0,0.0,1674.0,1645.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Holo.csv
+Huobi Token,accepted,1662.0,1663.0,2018-02-03,2022-08-23,1.0,0.0,1660.0,1631.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Huobi Token.csv
+Internet Computer,accepted,470.0,471.0,2021-05-10,2022-08-23,1.0,0.0,468.0,439.0,0.0,0.0,1.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Internet Computer.csv
+IOTA,accepted,1748.0,1749.0,2017-11-09,2022-08-23,1.0,0.0,1746.0,1717.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,IOTA.csv
+Kava,accepted,1033.0,1034.0,2019-10-25,2022-08-23,1.0,0.0,1031.0,1002.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Kava.csv
+Klaytn,accepted,876.0,877.0,2020-03-30,2022-08-23,1.0,0.0,874.0,845.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Klaytn.csv
+KuCoin Token,accepted,1748.0,1749.0,2017-11-09,2022-08-23,1.0,0.0,1746.0,1717.0,2.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,KuCoin Token.csv
+Kusama,accepted,985.0,986.0,2019-12-12,2022-08-23,1.0,0.0,983.0,954.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Kusama.csv
+Lido DAO,accepted,595.0,596.0,2021-01-05,2022-08-23,1.0,0.0,593.0,564.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Lido DAO.csv
+litecoin,accepted,2191.0,2191.0,2016-08-24,2022-08-23,0.0,0.0,2190.0,2161.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,litecoin.csv
+Loopring,accepted,1748.0,1749.0,2017-11-09,2022-08-23,1.0,0.0,1746.0,1717.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Loopring.csv
+Maker,accepted,1737.0,1738.0,2017-11-20,2022-08-23,1.0,0.0,1735.0,1706.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Maker.csv
+Mina,accepted,448.0,449.0,2021-06-01,2022-08-23,1.0,0.0,446.0,417.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Mina.csv
+monero,accepted,2763.0,2763.0,2015-01-30,2022-08-23,0.0,0.0,2762.0,2733.0,138.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,monero.csv
+near protocol,accepted,678.0,678.0,2020-10-15,2022-08-23,0.0,0.0,677.0,648.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,near protocol.csv
+NEM,accepted,1748.0,1749.0,2017-11-09,2022-08-23,1.0,0.0,1746.0,1717.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,NEM.csv
+Neo,accepted,1748.0,1749.0,2017-11-09,2022-08-23,1.0,0.0,1746.0,1717.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Neo.csv
+Neutrino USD,accepted,936.0,937.0,2020-01-30,2022-08-23,1.0,0.0,934.0,905.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Neutrino USD.csv
+Nexo,accepted,1574.0,1576.0,2018-05-01,2022-08-23,2.0,0.0,1571.0,1538.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Nexo.csv
+OKB,accepted,1211.0,1212.0,2019-04-30,2022-08-23,1.0,0.0,1209.0,1180.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,OKB.csv
+PancakeSwap,accepted,693.0,694.0,2020-09-29,2022-08-23,1.0,0.0,691.0,662.0,1.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,PancakeSwap.csv
+Pax Dollar,accepted,1426.0,1427.0,2018-09-27,2022-08-23,1.0,0.0,1424.0,1395.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Pax Dollar.csv
+PAX Gold,accepted,1062.0,1063.0,2019-09-26,2022-08-23,1.0,0.0,1060.0,1031.0,1.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,PAX Gold.csv
+polkadot,accepted,733.0,733.0,2020-08-21,2022-08-23,0.0,0.0,732.0,703.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,polkadot.csv
+polygon,accepted,1154.0,1154.0,2019-06-27,2022-08-23,0.0,0.0,1153.0,1124.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,polygon.csv
+Qtum,accepted,1748.0,1749.0,2017-11-09,2022-08-23,1.0,0.0,1746.0,1717.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Qtum.csv
+Quant,accepted,1474.0,1475.0,2018-08-10,2022-08-23,1.0,0.0,1472.0,1443.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Quant.csv
+Shiba Inu,accepted,752.0,753.0,2020-08-01,2022-08-23,1.0,258.0,492.0,463.0,41.0,0.0,259.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Shiba Inu.csv
+solana,accepted,449.0,451.0,2020-06-04,2021-08-28,2.0,0.0,447.0,389.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,solana.csv
+Stacks,accepted,1030.0,1031.0,2019-10-28,2022-08-23,1.0,0.0,1028.0,999.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Stacks.csv
+stellar,accepted,2009.0,2009.0,2017-02-22,2022-08-23,0.0,0.0,2008.0,1979.0,2.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,stellar.csv
+STEPN,accepted,497.0,498.0,2021-04-13,2022-08-23,1.0,0.0,495.0,466.0,25.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,STEPN.csv
+Synthetix,accepted,1623.0,1624.0,2018-03-14,2022-08-23,1.0,0.0,1621.0,1592.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Synthetix.csv
+tether,accepted,1957.0,1958.0,2017-04-14,2022-08-23,1.0,0.0,1955.0,1897.0,1.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,tether.csv
+Tezos,accepted,1748.0,1749.0,2017-11-09,2022-08-23,1.0,0.0,1746.0,1717.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Tezos.csv
+The Graph,accepted,652.0,652.0,2020-06-19,2022-04-01,0.0,0.0,651.0,622.0,264.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,The Graph.csv
+The Sandbox,accepted,739.0,740.0,2020-08-14,2022-08-23,1.0,0.0,737.0,708.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,The Sandbox.csv
+Theta Network,accepted,1679.0,1680.0,2018-01-17,2022-08-23,1.0,0.0,1677.0,1648.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Theta Network.csv
+THORChain,accepted,1127.0,1128.0,2019-07-23,2022-08-23,1.0,0.0,1125.0,1096.0,15.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,THORChain.csv
+tron,accepted,1744.0,1744.0,2017-11-14,2022-08-23,0.0,0.0,1743.0,1714.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,tron.csv
+TrueUSD,accepted,1631.0,1632.0,2018-03-06,2022-08-23,1.0,0.0,1629.0,1600.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,TrueUSD.csv
+Trust Wallet Token,accepted,754.0,755.0,2020-07-30,2022-08-23,1.0,0.0,752.0,723.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Trust Wallet Token.csv
+uniswap,accepted,656.0,656.0,2020-11-06,2022-08-23,0.0,0.0,655.0,626.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,uniswap.csv
+unus sed leo,accepted,1154.0,1154.0,2019-06-27,2022-08-23,0.0,0.0,1153.0,1124.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,unus sed leo.csv
+usd coin,accepted,1357.0,1357.0,2018-12-06,2022-08-23,0.0,0.0,1356.0,1327.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,usd coin.csv
+USDD,accepted,113.0,114.0,2022-05-02,2022-08-23,1.0,0.0,111.0,82.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,USDD.csv
+VeChain,accepted,1481.0,1482.0,2018-08-03,2022-08-23,1.0,0.0,1479.0,1450.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,VeChain.csv
+Waves,accepted,1748.0,1749.0,2017-11-09,2022-08-23,1.0,0.0,1746.0,1717.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Waves.csv
+wrapped bitcoin,accepted,644.0,644.0,2020-11-18,2022-08-23,0.0,0.0,643.0,614.0,644.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,wrapped bitcoin.csv
+xrp,accepted,2771.0,2771.0,2015-01-22,2022-08-23,0.0,0.0,2770.0,2741.0,214.0,0.0,3.0,,USD,Invalid values and calendar gaps retained as missing; no filling,xrp.csv
+Zcash,accepted,1748.0,1749.0,2017-11-09,2022-08-23,1.0,0.0,1746.0,1717.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Zcash.csv
+Zilliqa,accepted,1671.0,1672.0,2018-01-25,2022-08-23,1.0,0.0,1669.0,1640.0,0.0,0.0,0.0,,USD,Invalid values and calendar gaps retained as missing; no filling,Zilliqa.csv
